@@ -1,0 +1,3450 @@
+[
+  {
+    "hcpcs_code": "A0021",
+    "description": "Ambulance service, outside state per mile, transport (medicaid only)"
+  },
+  {
+    "hcpcs_code": "A0080",
+    "description": "Non-emergency transportation, per mile - vehicle provided by volunteer (individual or organization), with no vested interest"
+  },
+  {
+    "hcpcs_code": "A0090",
+    "description": "Non-emergency transportation, per mile - vehicle provided by individual (family member, self, neighbor) with vested interest"
+  },
+  {
+    "hcpcs_code": "A0100",
+    "description": "Non-emergency transportation; taxi"
+  },
+  {
+    "hcpcs_code": "A0110",
+    "description": "Non-emergency transportation and bus, intra or inter state carrier"
+  },
+  {
+    "hcpcs_code": "A0120",
+    "description": "Non-emergency transportation: mini-bus, mountain area transports, or other transportation systems"
+  },
+  {
+    "hcpcs_code": "A0130",
+    "description": "Non-emergency transportation: wheelchair van"
+  },
+  {
+    "hcpcs_code": "A0140",
+    "description": "Non-emergency transportation and air travel (private or commercial) intra or inter state"
+  },
+  {
+    "hcpcs_code": "A0160",
+    "description": "Non-emergency transportation: per mile - case worker or social worker"
+  },
+  {
+    "hcpcs_code": "A0170",
+    "description": "Transportation ancillary: parking fees, tolls, other"
+  },
+  {
+    "hcpcs_code": "A0180",
+    "description": "Non-emergency transportation: ancillary: lodging-recipient"
+  },
+  {
+    "hcpcs_code": "A0190",
+    "description": "Non-emergency transportation: ancillary: meals-recipient"
+  },
+  {
+    "hcpcs_code": "A0200",
+    "description": "Non-emergency transportation: ancillary: lodging escort"
+  },
+  {
+    "hcpcs_code": "A0210",
+    "description": "Non-emergency transportation: ancillary: meals-escort"
+  },
+  {
+    "hcpcs_code": "A0225",
+    "description": "Ambulance service, neonatal transport, base rate, emergency transport, one way"
+  },
+  {
+    "hcpcs_code": "A0380",
+    "description": "Bls mileage (per mile)"
+  },
+  {
+    "hcpcs_code": "A0382",
+    "description": "Bls routine disposable supplies"
+  },
+  {
+    "hcpcs_code": "A0384",
+    "description": "Bls specialized service disposable supplies; defibrillation (used by als ambulances and bls ambulances in jurisdictions where defibrillation is permitted in bls ambulances)"
+  },
+  {
+    "hcpcs_code": "A0390",
+    "description": "Als mileage (per mile)"
+  },
+  {
+    "hcpcs_code": "A0392",
+    "description": "Als specialized service disposable supplies; defibrillation (to be used only in jurisdictions where defibrillation cannot be performed in bls ambulances)"
+  },
+  {
+    "hcpcs_code": "A0394",
+    "description": "Als specialized service disposable supplies; iv drug therapy"
+  },
+  {
+    "hcpcs_code": "A0396",
+    "description": "Als specialized service disposable supplies; esophageal intubation"
+  },
+  {
+    "hcpcs_code": "A0398",
+    "description": "Als routine disposable supplies"
+  },
+  {
+    "hcpcs_code": "A0420",
+    "description": "Ambulance waiting time (als or bls), one half (1/2) hour increments"
+  },
+  {
+    "hcpcs_code": "A0422",
+    "description": "Ambulance (als or bls) oxygen and oxygen supplies, life sustaining situation"
+  },
+  {
+    "hcpcs_code": "A0424",
+    "description": "Extra ambulance attendant, ground (als or bls) or air (fixed or rotary winged); (requires medical review)"
+  },
+  {
+    "hcpcs_code": "A0425",
+    "description": "Ground mileage, per statute mile"
+  },
+  {
+    "hcpcs_code": "A0426",
+    "description": "Ambulance service, advanced life support, non-emergency transport, level 1 (als 1)"
+  },
+  {
+    "hcpcs_code": "A0427",
+    "description": "Ambulance service, advanced life support, emergency transport, level 1 (als 1 - emergency)"
+  },
+  {
+    "hcpcs_code": "A0428",
+    "description": "Ambulance service, basic life support, non-emergency transport, (bls)"
+  },
+  {
+    "hcpcs_code": "A0429",
+    "description": "Ambulance service, basic life support, emergency transport (bls-emergency)"
+  },
+  {
+    "hcpcs_code": "A0430",
+    "description": "Ambulance service, conventional air services, transport, one way (fixed wing)"
+  },
+  {
+    "hcpcs_code": "A0431",
+    "description": "Ambulance service, conventional air services, transport, one way (rotary wing)"
+  },
+  {
+    "hcpcs_code": "A0432",
+    "description": "Paramedic intercept (pi), rural area, transport furnished by a volunteer ambulance company which is prohibited by state law from billing third party payers"
+  },
+  {
+    "hcpcs_code": "A0433",
+    "description": "Advanced life support, level 2 (als 2)"
+  },
+  {
+    "hcpcs_code": "A0434",
+    "description": "Specialty care transport (sct)"
+  },
+  {
+    "hcpcs_code": "A0435",
+    "description": "Fixed wing air mileage, per statute mile"
+  },
+  {
+    "hcpcs_code": "A0436",
+    "description": "Rotary wing air mileage, per statute mile"
+  },
+  {
+    "hcpcs_code": "A0888",
+    "description": "Noncovered ambulance mileage, per mile (e.g., for miles traveled beyond closest appropriate facility)"
+  },
+  {
+    "hcpcs_code": "A0998",
+    "description": "Ambulance response and treatment, no transport"
+  },
+  {
+    "hcpcs_code": "A0999",
+    "description": "Unlisted ambulance service"
+  },
+  {
+    "hcpcs_code": "A2001",
+    "description": "Innovamatrix ac, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2002",
+    "description": "Mirragen advanced wound matrix, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2004",
+    "description": "Xcellistem, 1 mg"
+  },
+  {
+    "hcpcs_code": "A2005",
+    "description": "Microlyte matrix, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2006",
+    "description": "Novosorb synpath dermal matrix, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2007",
+    "description": "Restrata, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2008",
+    "description": "Theragenesis, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2009",
+    "description": "Symphony, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2010",
+    "description": "Apis, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2011",
+    "description": "Supra sdrm, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2012",
+    "description": "Suprathel, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2013",
+    "description": "Innovamatrix fs, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2014",
+    "description": "Omeza collagen matrix or omeza complete matrix, per 100 mg"
+  },
+  {
+    "hcpcs_code": "A2015",
+    "description": "Phoenix wound matrix, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2016",
+    "description": "Permeaderm b, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2017",
+    "description": "Permeaderm glove, each"
+  },
+  {
+    "hcpcs_code": "A2018",
+    "description": "Permeaderm c, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2019",
+    "description": "Kerecis omega3 marigen shield, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2020",
+    "description": "Ac5 advanced wound system (ac5)"
+  },
+  {
+    "hcpcs_code": "A2021",
+    "description": "Neomatrix, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2022",
+    "description": "Innovaburn or innovamatrix xl, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2023",
+    "description": "Innovamatrix pd, 1 mg"
+  },
+  {
+    "hcpcs_code": "A2024",
+    "description": "Resolve matrix or xenopatch, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2025",
+    "description": "Miro3d, per cubic centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2026",
+    "description": "Restrata minimatrix, 5 mg"
+  },
+  {
+    "hcpcs_code": "A2027",
+    "description": "Matriderm, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2028",
+    "description": "Micromatrix flex, per mg"
+  },
+  {
+    "hcpcs_code": "A2029",
+    "description": "Mirotract wound matrix sheet, per cubic centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2030",
+    "description": "Miro3d fibers, per milligram"
+  },
+  {
+    "hcpcs_code": "A2031",
+    "description": "Mirodry wound matrix, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2032",
+    "description": "Myriad matrix, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2033",
+    "description": "Myriad morcells, 4 milligrams"
+  },
+  {
+    "hcpcs_code": "A2034",
+    "description": "Foundation drs solo, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2035",
+    "description": "Corplex p or theracor p or allacor p, per milligram"
+  },
+  {
+    "hcpcs_code": "A2036",
+    "description": "Cohealyx collagen dermal matrix, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2037",
+    "description": "G4derm plus/suprello, per milliliter"
+  },
+  {
+    "hcpcs_code": "A2038",
+    "description": "Marigen pacto, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2039",
+    "description": "Innovamatrix fd, per square centimeter (add-on, list separately in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A2040",
+    "description": "Microlyte painguard, per square centimeter"
+  },
+  {
+    "hcpcs_code": "A2041",
+    "description": "Foundation drs+ duo, per square centimeter"
+  },
+  {
+    "hcpcs_code": "A2042",
+    "description": "Foundation drs+ solo, per square centimeter"
+  },
+  {
+    "hcpcs_code": "A2043",
+    "description": "Biobrane, per square centimeter"
+  },
+  {
+    "hcpcs_code": "A2044",
+    "description": "Biobrane glove, each"
+  },
+  {
+    "hcpcs_code": "A2045",
+    "description": "Novashield or novogen wound matrix, per square centimeter"
+  },
+  {
+    "hcpcs_code": "A4100",
+    "description": "Non-sheet form skin substitute, fda cleared as a device, not otherwise specified (list in addition to primary procedure)"
+  },
+  {
+    "hcpcs_code": "A4206",
+    "description": "Syringe with needle, sterile, 1 cc or less, each"
+  },
+  {
+    "hcpcs_code": "A4207",
+    "description": "Syringe with needle, sterile 2 cc, each"
+  },
+  {
+    "hcpcs_code": "A4208",
+    "description": "Syringe with needle, sterile 3 cc, each"
+  },
+  {
+    "hcpcs_code": "A4209",
+    "description": "Syringe with needle, sterile 5 cc or greater, each"
+  },
+  {
+    "hcpcs_code": "A4210",
+    "description": "Needle-free injection device, each"
+  },
+  {
+    "hcpcs_code": "A4211",
+    "description": "Supplies for self-administered injections"
+  },
+  {
+    "hcpcs_code": "A4212",
+    "description": "Non-coring needle or stylet with or without catheter"
+  },
+  {
+    "hcpcs_code": "A4213",
+    "description": "Syringe, sterile, 20 cc or greater, each"
+  },
+  {
+    "hcpcs_code": "A4215",
+    "description": "Needle, sterile, any size, each"
+  },
+  {
+    "hcpcs_code": "A4216",
+    "description": "Sterile water, saline and/or dextrose, diluent/flush, 10 ml"
+  },
+  {
+    "hcpcs_code": "A4217",
+    "description": "Sterile water/saline, 500 ml"
+  },
+  {
+    "hcpcs_code": "A4218",
+    "description": "Sterile saline or water, metered dose dispenser, 10 ml"
+  },
+  {
+    "hcpcs_code": "A4220",
+    "description": "Refill kit for implantable infusion pump"
+  },
+  {
+    "hcpcs_code": "A4221",
+    "description": "Supplies for maintenance of non-insulin drug infusion catheter, per week (list drugs  separately)"
+  },
+  {
+    "hcpcs_code": "A4222",
+    "description": "Infusion supplies for external drug infusion pump, per cassette or bag (list drugs separately)"
+  },
+  {
+    "hcpcs_code": "A4223",
+    "description": "Infusion supplies not used with external infusion pump, per cassette or bag (list drugs separately)"
+  },
+  {
+    "hcpcs_code": "A4224",
+    "description": "Supplies for maintenance of insulin infusion catheter, per week"
+  },
+  {
+    "hcpcs_code": "A4225",
+    "description": "Supplies for external insulin infusion pump, syringe type cartridge, sterile, each"
+  },
+  {
+    "hcpcs_code": "A4226",
+    "description": "Supplies for maintenance of insulin infusion pump with dosage rate adjustment using therapeutic continuous glucose sensing, per week"
+  },
+  {
+    "hcpcs_code": "A4230",
+    "description": "Infusion set for external insulin pump, non needle cannula type"
+  },
+  {
+    "hcpcs_code": "A4231",
+    "description": "Infusion set for external insulin pump, needle type"
+  },
+  {
+    "hcpcs_code": "A4232",
+    "description": "Syringe with needle for external insulin pump, sterile, 3 cc"
+  },
+  {
+    "hcpcs_code": "A4233",
+    "description": "Replacement battery, alkaline (other than j cell), for use with medically necessary home blood glucose monitor owned by patient, each"
+  },
+  {
+    "hcpcs_code": "A4234",
+    "description": "Replacement battery, alkaline, j cell, for use with medically necessary home blood glucose monitor owned by patient, each"
+  },
+  {
+    "hcpcs_code": "A4235",
+    "description": "Replacement battery, lithium, for use with medically necessary home blood glucose monitor owned by patient, each"
+  },
+  {
+    "hcpcs_code": "A4236",
+    "description": "Replacement battery, silver oxide, for use with medically necessary home blood glucose monitor owned by patient, each"
+  },
+  {
+    "hcpcs_code": "A4238",
+    "description": "Supply allowance for adjunctive, non-implanted continuous glucose monitor (cgm), includes all supplies and accessories, 1 month supply = 1 unit of service"
+  },
+  {
+    "hcpcs_code": "A4239",
+    "description": "Supply allowance for non-adjunctive, non-implanted continuous glucose monitor (cgm), includes all supplies and accessories, 1 month supply = 1 unit of service"
+  },
+  {
+    "hcpcs_code": "A4244",
+    "description": "Alcohol or peroxide, per pint"
+  },
+  {
+    "hcpcs_code": "A4245",
+    "description": "Alcohol wipes, per box"
+  },
+  {
+    "hcpcs_code": "A4246",
+    "description": "Betadine or phisohex solution, per pint"
+  },
+  {
+    "hcpcs_code": "A4247",
+    "description": "Betadine or iodine swabs/wipes, per box"
+  },
+  {
+    "hcpcs_code": "A4248",
+    "description": "Chlorhexidine containing antiseptic, 1 ml"
+  },
+  {
+    "hcpcs_code": "A4250",
+    "description": "Urine test or reagent strips or tablets (100 tablets or strips)"
+  },
+  {
+    "hcpcs_code": "A4252",
+    "description": "Blood ketone test or reagent strip, each"
+  },
+  {
+    "hcpcs_code": "A4253",
+    "description": "Blood glucose test or reagent strips for home blood glucose monitor, per 50 strips"
+  },
+  {
+    "hcpcs_code": "A4255",
+    "description": "Platforms for home blood glucose monitor, 50 per box"
+  },
+  {
+    "hcpcs_code": "A4256",
+    "description": "Normal, low and high calibrator solution / chips"
+  },
+  {
+    "hcpcs_code": "A4257",
+    "description": "Replacement lens shield cartridge for use with laser skin piercing device, each"
+  },
+  {
+    "hcpcs_code": "A4258",
+    "description": "Spring-powered device for lancet, each"
+  },
+  {
+    "hcpcs_code": "A4259",
+    "description": "Lancets, per box of 100"
+  },
+  {
+    "hcpcs_code": "A4261",
+    "description": "Cervical cap for contraceptive use"
+  },
+  {
+    "hcpcs_code": "A4262",
+    "description": "Temporary, absorbable lacrimal duct implant, each"
+  },
+  {
+    "hcpcs_code": "A4263",
+    "description": "Permanent, long term, non-dissolvable lacrimal duct implant, each"
+  },
+  {
+    "hcpcs_code": "A4264",
+    "description": "Permanent implantable contraceptive intratubal occlusion device(s) and delivery system"
+  },
+  {
+    "hcpcs_code": "A4265",
+    "description": "Paraffin, per pound"
+  },
+  {
+    "hcpcs_code": "A4266",
+    "description": "Diaphragm for contraceptive use"
+  },
+  {
+    "hcpcs_code": "A4267",
+    "description": "Contraceptive supply, condom, male, each"
+  },
+  {
+    "hcpcs_code": "A4268",
+    "description": "Contraceptive supply, condom, female, each"
+  },
+  {
+    "hcpcs_code": "A4269",
+    "description": "Contraceptive supply, spermicide (e.g., foam, gel), each"
+  },
+  {
+    "hcpcs_code": "A4270",
+    "description": "Disposable endoscope sheath, each"
+  },
+  {
+    "hcpcs_code": "A4271",
+    "description": "Integrated lancing and blood sample testing cartridges for home blood glucose monitor, per 50 tests"
+  },
+  {
+    "hcpcs_code": "A4280",
+    "description": "Adhesive skin support attachment for use with external breast prosthesis, each"
+  },
+  {
+    "hcpcs_code": "A4281",
+    "description": "Tubing for breast pump, replacement"
+  },
+  {
+    "hcpcs_code": "A4282",
+    "description": "Adapter for breast pump, replacement"
+  },
+  {
+    "hcpcs_code": "A4283",
+    "description": "Cap for breast pump bottle, replacement"
+  },
+  {
+    "hcpcs_code": "A4284",
+    "description": "Breast shield and splash protector for use with breast pump, replacement"
+  },
+  {
+    "hcpcs_code": "A4285",
+    "description": "Polycarbonate bottle for use with breast pump, replacement"
+  },
+  {
+    "hcpcs_code": "A4286",
+    "description": "Locking ring for breast pump, replacement"
+  },
+  {
+    "hcpcs_code": "A4287",
+    "description": "Disposable collection and storage bag for breast milk, any size, any type, each"
+  },
+  {
+    "hcpcs_code": "A4288",
+    "description": "Valve for breast pump, replacement"
+  },
+  {
+    "hcpcs_code": "A4290",
+    "description": "Sacral nerve stimulation test lead, each"
+  },
+  {
+    "hcpcs_code": "A4295",
+    "description": "Intermittent urinary catheter; straight tip, hydrophilic coating, each"
+  },
+  {
+    "hcpcs_code": "A4296",
+    "description": "Intermittent urinary catheter; coude (curved) tip, hydrophilic coating, each"
+  },
+  {
+    "hcpcs_code": "A4297",
+    "description": "Intermittent urinary catheter; hydrophilic coating, with insertion supplies"
+  },
+  {
+    "hcpcs_code": "A4300",
+    "description": "Implantable access catheter, (e.g., venous, arterial, epidural subarachnoid, or peritoneal, etc.) external access"
+  },
+  {
+    "hcpcs_code": "A4301",
+    "description": "Implantable access total catheter, port/reservoir (e.g., venous, arterial, epidural, subarachnoid, peritoneal, etc.)"
+  },
+  {
+    "hcpcs_code": "A4305",
+    "description": "Disposable drug delivery system, flow rate of 50 ml or greater per hour"
+  },
+  {
+    "hcpcs_code": "A4306",
+    "description": "Disposable drug delivery system, flow rate of less than 50 ml per hour"
+  },
+  {
+    "hcpcs_code": "A4310",
+    "description": "Insertion tray without drainage bag and without catheter (accessories only)"
+  },
+  {
+    "hcpcs_code": "A4311",
+    "description": "Insertion tray without drainage bag with indwelling catheter, foley type, two-way latex with coating (teflon, silicone, silicone elastomer or hydrophilic, etc.)"
+  },
+  {
+    "hcpcs_code": "A4312",
+    "description": "Insertion tray without drainage bag with indwelling catheter, foley type, two-way, all silicone"
+  },
+  {
+    "hcpcs_code": "A4313",
+    "description": "Insertion tray without drainage bag with indwelling catheter, foley type, three-way, for continuous irrigation"
+  },
+  {
+    "hcpcs_code": "A4314",
+    "description": "Insertion tray with drainage bag with indwelling catheter, foley type, two-way latex with coating (teflon, silicone, silicone elastomer or hydrophilic, etc.)"
+  },
+  {
+    "hcpcs_code": "A4315",
+    "description": "Insertion tray with drainage bag with indwelling catheter, foley type, two-way, all silicone"
+  },
+  {
+    "hcpcs_code": "A4316",
+    "description": "Insertion tray with drainage bag with indwelling catheter, foley type, three-way, for continuous irrigation"
+  },
+  {
+    "hcpcs_code": "A4318",
+    "description": "Female external urinary collection cup, with or without ring attachment, per day"
+  },
+  {
+    "hcpcs_code": "A4320",
+    "description": "Irrigation tray with bulb or piston syringe, any purpose"
+  },
+  {
+    "hcpcs_code": "A4321",
+    "description": "Therapeutic agent for urinary catheter irrigation"
+  },
+  {
+    "hcpcs_code": "A4322",
+    "description": "Irrigation syringe, bulb or piston, each"
+  },
+  {
+    "hcpcs_code": "A4326",
+    "description": "Male external catheter with integral collection chamber, any type, each"
+  },
+  {
+    "hcpcs_code": "A4327",
+    "description": "Female external urinary collection device; meatal cup, each"
+  },
+  {
+    "hcpcs_code": "A4328",
+    "description": "Female external urinary collection device; pouch, each"
+  },
+  {
+    "hcpcs_code": "A4330",
+    "description": "Perianal fecal collection pouch with adhesive, each"
+  },
+  {
+    "hcpcs_code": "A4331",
+    "description": "Extension drainage tubing, any type, any length, with connector/adaptor, for use with urinary leg bag or urostomy pouch, each"
+  },
+  {
+    "hcpcs_code": "A4332",
+    "description": "Lubricant, individual sterile packet, each"
+  },
+  {
+    "hcpcs_code": "A4333",
+    "description": "Urinary catheter anchoring device, adhesive skin attachment, each"
+  },
+  {
+    "hcpcs_code": "A4334",
+    "description": "Urinary catheter anchoring device, leg strap, each"
+  },
+  {
+    "hcpcs_code": "A4335",
+    "description": "Incontinence supply; miscellaneous"
+  },
+  {
+    "hcpcs_code": "A4336",
+    "description": "Incontinence supply, urethral insert, any type, each"
+  },
+  {
+    "hcpcs_code": "A4337",
+    "description": "Incontinence supply, rectal insert, any type, each"
+  },
+  {
+    "hcpcs_code": "A4338",
+    "description": "Indwelling catheter; foley type, two-way latex with coating (teflon, silicone, silicone elastomer, or hydrophilic, etc.), each"
+  },
+  {
+    "hcpcs_code": "A4340",
+    "description": "Indwelling catheter; specialty type, (e.g., coude, mushroom, wing, etc.), each"
+  },
+  {
+    "hcpcs_code": "A4341",
+    "description": "Indwelling intraurethral drainage device with valve, patient inserted, replacement only, each"
+  },
+  {
+    "hcpcs_code": "A4342",
+    "description": "Accessories for patient inserted indwelling intraurethral drainage device with valve, replacement only, each"
+  },
+  {
+    "hcpcs_code": "A4344",
+    "description": "Indwelling catheter, foley type, two-way, all silicone or polyurethane, each"
+  },
+  {
+    "hcpcs_code": "A4346",
+    "description": "Indwelling catheter; foley type, three way for continuous irrigation, each"
+  },
+  {
+    "hcpcs_code": "A4349",
+    "description": "Male external catheter, with or without adhesive, disposable, each"
+  },
+  {
+    "hcpcs_code": "A4351",
+    "description": "Intermittent urinary catheter; straight tip, with or without coating (teflon, silicone, or silicone elastomer, etc.), each"
+  },
+  {
+    "hcpcs_code": "A4352",
+    "description": "Intermittent urinary catheter; coude (curved) tip, with or without coating (teflon, silicone, or silicone elastomeric, etc.), each"
+  },
+  {
+    "hcpcs_code": "A4353",
+    "description": "Intermittent urinary catheter, with insertion supplies"
+  },
+  {
+    "hcpcs_code": "A4354",
+    "description": "Insertion tray with drainage bag but without catheter"
+  },
+  {
+    "hcpcs_code": "A4355",
+    "description": "Irrigation tubing set for continuous bladder irrigation through a three-way indwelling foley catheter, each"
+  },
+  {
+    "hcpcs_code": "A4356",
+    "description": "External urethral clamp or compression device (not to be used for catheter clamp), each"
+  },
+  {
+    "hcpcs_code": "A4357",
+    "description": "Bedside drainage bag, day or night, with or without anti-reflux device, with or without tube, each"
+  },
+  {
+    "hcpcs_code": "A4358",
+    "description": "Urinary drainage bag, leg or abdomen, vinyl, with or without tube, with straps, each"
+  },
+  {
+    "hcpcs_code": "A4360",
+    "description": "Disposable external urethral clamp or compression device, with pad and/or pouch, each"
+  },
+  {
+    "hcpcs_code": "A4361",
+    "description": "Ostomy faceplate, each"
+  },
+  {
+    "hcpcs_code": "A4362",
+    "description": "Skin barrier; solid, 4 x 4 or equivalent; each"
+  },
+  {
+    "hcpcs_code": "A4363",
+    "description": "Ostomy clamp, any type, replacement only, each"
+  },
+  {
+    "hcpcs_code": "A4364",
+    "description": "Adhesive, liquid or equal, any type, per oz"
+  },
+  {
+    "hcpcs_code": "A4366",
+    "description": "Ostomy vent, any type, each"
+  },
+  {
+    "hcpcs_code": "A4367",
+    "description": "Ostomy belt, each"
+  },
+  {
+    "hcpcs_code": "A4368",
+    "description": "Ostomy filter, any type, each"
+  },
+  {
+    "hcpcs_code": "A4369",
+    "description": "Ostomy skin barrier, liquid (spray, brush, etc.), per oz"
+  },
+  {
+    "hcpcs_code": "A4371",
+    "description": "Ostomy skin barrier, powder, per oz"
+  },
+  {
+    "hcpcs_code": "A4372",
+    "description": "Ostomy skin barrier, solid 4 x 4 or equivalent, standard wear, with built-in convexity, each"
+  },
+  {
+    "hcpcs_code": "A4373",
+    "description": "Ostomy skin barrier, with flange (solid, flexible or accordion), with built-in convexity, any size, each"
+  },
+  {
+    "hcpcs_code": "A4375",
+    "description": "Ostomy pouch, drainable, with faceplate attached, plastic, each"
+  },
+  {
+    "hcpcs_code": "A4376",
+    "description": "Ostomy pouch, drainable, with faceplate attached, rubber, each"
+  },
+  {
+    "hcpcs_code": "A4377",
+    "description": "Ostomy pouch, drainable, for use on faceplate, plastic, each"
+  },
+  {
+    "hcpcs_code": "A4378",
+    "description": "Ostomy pouch, drainable, for use on faceplate, rubber, each"
+  },
+  {
+    "hcpcs_code": "A4379",
+    "description": "Ostomy pouch, urinary, with faceplate attached, plastic, each"
+  },
+  {
+    "hcpcs_code": "A4380",
+    "description": "Ostomy pouch, urinary, with faceplate attached, rubber, each"
+  },
+  {
+    "hcpcs_code": "A4381",
+    "description": "Ostomy pouch, urinary, for use on faceplate, plastic, each"
+  },
+  {
+    "hcpcs_code": "A4382",
+    "description": "Ostomy pouch, urinary, for use on faceplate, heavy plastic, each"
+  },
+  {
+    "hcpcs_code": "A4383",
+    "description": "Ostomy pouch, urinary, for use on faceplate, rubber, each"
+  },
+  {
+    "hcpcs_code": "A4384",
+    "description": "Ostomy faceplate equivalent, silicone ring, each"
+  },
+  {
+    "hcpcs_code": "A4385",
+    "description": "Ostomy skin barrier, solid 4 x 4 or equivalent, extended wear, without built-in convexity, each"
+  },
+  {
+    "hcpcs_code": "A4387",
+    "description": "Ostomy pouch, closed, with barrier attached, with built-in convexity (1 piece), each"
+  },
+  {
+    "hcpcs_code": "A4388",
+    "description": "Ostomy pouch, drainable, with extended wear barrier attached, (1 piece), each"
+  },
+  {
+    "hcpcs_code": "A4389",
+    "description": "Ostomy pouch, drainable, with barrier attached, with built-in convexity (1 piece), each"
+  },
+  {
+    "hcpcs_code": "A4390",
+    "description": "Ostomy pouch, drainable, with extended wear barrier attached, with built-in convexity (1 piece), each"
+  },
+  {
+    "hcpcs_code": "A4391",
+    "description": "Ostomy pouch, urinary, with extended wear barrier attached (1 piece), each"
+  },
+  {
+    "hcpcs_code": "A4392",
+    "description": "Ostomy pouch, urinary, with standard wear barrier attached, with built-in convexity (1 piece), each"
+  },
+  {
+    "hcpcs_code": "A4393",
+    "description": "Ostomy pouch, urinary, with extended wear barrier attached, with built-in convexity (1 piece), each"
+  },
+  {
+    "hcpcs_code": "A4394",
+    "description": "Ostomy deodorant, with or without lubricant, for use in ostomy pouch, per fluid ounce"
+  },
+  {
+    "hcpcs_code": "A4395",
+    "description": "Ostomy deodorant for use in ostomy pouch, solid, per tablet"
+  },
+  {
+    "hcpcs_code": "A4396",
+    "description": "Ostomy belt with peristomal hernia support"
+  },
+  {
+    "hcpcs_code": "A4397",
+    "description": "Irrigation supply; sleeve, each Terminated December 31, 2021."
+  },
+  {
+    "hcpcs_code": "A4398",
+    "description": "Ostomy irrigation supply; bag, each"
+  },
+  {
+    "hcpcs_code": "A4399",
+    "description": "Ostomy irrigation supply; cone/catheter, with or without brush"
+  },
+  {
+    "hcpcs_code": "A4400",
+    "description": "Ostomy irrigation set"
+  },
+  {
+    "hcpcs_code": "A4402",
+    "description": "Lubricant, per ounce"
+  },
+  {
+    "hcpcs_code": "A4404",
+    "description": "Ostomy ring, each"
+  },
+  {
+    "hcpcs_code": "A4405",
+    "description": "Ostomy skin barrier, non-pectin based, paste, per ounce"
+  },
+  {
+    "hcpcs_code": "A4406",
+    "description": "Ostomy skin barrier, pectin-based, paste, per ounce"
+  },
+  {
+    "hcpcs_code": "A4407",
+    "description": "Ostomy skin barrier, with flange (solid, flexible, or accordion), extended wear, with built-in convexity, 4 x 4 inches or smaller, each"
+  },
+  {
+    "hcpcs_code": "A4408",
+    "description": "Ostomy skin barrier, with flange (solid, flexible or accordion), extended wear, with built-in convexity, larger than 4 x 4 inches, each"
+  },
+  {
+    "hcpcs_code": "A4409",
+    "description": "Ostomy skin barrier, with flange (solid, flexible or accordion), extended wear, without built-in convexity, 4 x 4 inches or smaller, each"
+  },
+  {
+    "hcpcs_code": "A4410",
+    "description": "Ostomy skin barrier, with flange (solid, flexible or accordion), extended wear, without built-in convexity, larger than 4 x 4 inches, each"
+  },
+  {
+    "hcpcs_code": "A4411",
+    "description": "Ostomy skin barrier, solid 4 x 4 or equivalent, extended wear, with built-in convexity, each"
+  },
+  {
+    "hcpcs_code": "A4412",
+    "description": "Ostomy pouch, drainable, high output, for use on a barrier with flange (2 piece system), without filter, each"
+  },
+  {
+    "hcpcs_code": "A4413",
+    "description": "Ostomy pouch, drainable, high output, for use on a barrier with flange (2 piece system), with filter, each"
+  },
+  {
+    "hcpcs_code": "A4414",
+    "description": "Ostomy skin barrier, with flange (solid, flexible or accordion), without built-in convexity, 4 x 4 inches or smaller, each"
+  },
+  {
+    "hcpcs_code": "A4415",
+    "description": "Ostomy skin barrier, with flange (solid, flexible or accordion), without built-in convexity, larger than 4 x 4 inches, each"
+  },
+  {
+    "hcpcs_code": "A4416",
+    "description": "Ostomy pouch, closed, with barrier attached, with filter (1 piece), each"
+  },
+  {
+    "hcpcs_code": "A4417",
+    "description": "Ostomy pouch, closed, with barrier attached, with built-in convexity, with filter (1 piece), each"
+  },
+  {
+    "hcpcs_code": "A4418",
+    "description": "Ostomy pouch, closed; without barrier attached, with filter (1 piece), each"
+  },
+  {
+    "hcpcs_code": "A4419",
+    "description": "Ostomy pouch, closed; for use on barrier with non-locking flange, with filter (2 piece), each"
+  },
+  {
+    "hcpcs_code": "A4420",
+    "description": "Ostomy pouch, closed; for use on barrier with locking flange (2 piece), each"
+  },
+  {
+    "hcpcs_code": "A4421",
+    "description": "Ostomy supply; miscellaneous"
+  },
+  {
+    "hcpcs_code": "A4422",
+    "description": "Ostomy absorbent material (sheet/pad/crystal packet) for use in ostomy pouch to thicken liquid stomal output, each"
+  },
+  {
+    "hcpcs_code": "A4423",
+    "description": "Ostomy pouch, closed; for use on barrier with locking flange, with filter (2 piece), each"
+  },
+  {
+    "hcpcs_code": "A4424",
+    "description": "Ostomy pouch, drainable, with barrier attached, with filter (1 piece), each"
+  },
+  {
+    "hcpcs_code": "A4425",
+    "description": "Ostomy pouch, drainable; for use on barrier with non-locking flange, with filter (2 piece system), each"
+  },
+  {
+    "hcpcs_code": "A4426",
+    "description": "Ostomy pouch, drainable; for use on barrier with locking flange (2 piece system), each"
+  },
+  {
+    "hcpcs_code": "A4427",
+    "description": "Ostomy pouch, drainable; for use on barrier with locking flange, with filter (2 piece system), each"
+  },
+  {
+    "hcpcs_code": "A4428",
+    "description": "Ostomy pouch, urinary, with extended wear barrier attached, with faucet-type tap with valve (1 piece), each"
+  },
+  {
+    "hcpcs_code": "A4429",
+    "description": "Ostomy pouch, urinary, with barrier attached, with built-in convexity, with faucet-type tap with valve (1 piece), each"
+  },
+  {
+    "hcpcs_code": "A4430",
+    "description": "Ostomy pouch, urinary, with extended wear barrier attached, with built-in convexity, with faucet-type tap with valve (1 piece), each"
+  },
+  {
+    "hcpcs_code": "A4431",
+    "description": "Ostomy pouch, urinary; with barrier attached, with faucet-type tap with valve (1 piece), each"
+  },
+  {
+    "hcpcs_code": "A4432",
+    "description": "Ostomy pouch, urinary; for use on barrier with non-locking flange, with faucet-type tap with valve (2 piece), each"
+  },
+  {
+    "hcpcs_code": "A4433",
+    "description": "Ostomy pouch, urinary; for use on barrier with locking flange (2 piece), each"
+  },
+  {
+    "hcpcs_code": "A4434",
+    "description": "Ostomy pouch, urinary; for use on barrier with locking flange, with faucet-type tap with valve (2 piece), each"
+  },
+  {
+    "hcpcs_code": "A4435",
+    "description": "Ostomy pouch, drainable, high output, with extended wear barrier (one-piece system), with or without filter, each"
+  },
+  {
+    "hcpcs_code": "A4436",
+    "description": "Irrigation supply; sleeve, reusable, per month"
+  },
+  {
+    "hcpcs_code": "A4437",
+    "description": "Irrigation supply; sleeve, disposable, per month"
+  },
+  {
+    "hcpcs_code": "A4438",
+    "description": "Adhesive clip applied to the skin to secure external electrical nerve stimulator controller, each"
+  },
+  {
+    "hcpcs_code": "A4450",
+    "description": "Tape, non-waterproof, per 18 square inches"
+  },
+  {
+    "hcpcs_code": "A4452",
+    "description": "Tape, waterproof, per 18 square inches"
+  },
+  {
+    "hcpcs_code": "A4453",
+    "description": "Rectal catheter with or without balloon, for use with any type transanal irrigation system, each"
+  },
+  {
+    "hcpcs_code": "A4455",
+    "description": "Adhesive remover or solvent (for tape, cement or other adhesive), per ounce"
+  },
+  {
+    "hcpcs_code": "A4456",
+    "description": "Adhesive remover, wipes, any type, each"
+  },
+  {
+    "hcpcs_code": "A4457",
+    "description": "Enema tube, with or without adapter, any type, replacement only, each"
+  },
+  {
+    "hcpcs_code": "A4458",
+    "description": "Enema bag with tubing, reusable"
+  },
+  {
+    "hcpcs_code": "A4459",
+    "description": "Manual transanal irrigation system, includes water reservoir, pump, tubing, and accessories, without catheter, any type"
+  },
+  {
+    "hcpcs_code": "A4461",
+    "description": "Surgical dressing holder, non-reusable, each"
+  },
+  {
+    "hcpcs_code": "A4463",
+    "description": "Surgical dressing holder, reusable, each"
+  },
+  {
+    "hcpcs_code": "A4465",
+    "description": "Non-elastic binder for extremity"
+  },
+  {
+    "hcpcs_code": "A4466",
+    "description": "Garment, belt, sleeve or other covering, elastic or similar stretchable material, any type, each Terminated December 31, 2016."
+  },
+  {
+    "hcpcs_code": "A4467",
+    "description": "Belt, strap, sleeve, garment, or covering, any type"
+  },
+  {
+    "hcpcs_code": "A4468",
+    "description": "Exsufflation belt, includes all supplies and accessories"
+  },
+  {
+    "hcpcs_code": "A4470",
+    "description": "Gravlee jet washer"
+  },
+  {
+    "hcpcs_code": "A4479",
+    "description": "Electronic transanal irrigation system, includes electronic pump, water reservoir, tubing, and accessories, without catheter, any type"
+  },
+  {
+    "hcpcs_code": "A4480",
+    "description": "Vabra aspirator"
+  },
+  {
+    "hcpcs_code": "A4481",
+    "description": "Tracheostoma filter, any type, any size, each"
+  },
+  {
+    "hcpcs_code": "A4483",
+    "description": "Moisture exchanger, disposable, for use with invasive mechanical ventilation"
+  },
+  {
+    "hcpcs_code": "A4490",
+    "description": "Surgical stockings above knee length, each"
+  },
+  {
+    "hcpcs_code": "A4495",
+    "description": "Surgical stockings thigh length, each"
+  },
+  {
+    "hcpcs_code": "A4500",
+    "description": "Surgical stockings below knee length, each"
+  },
+  {
+    "hcpcs_code": "A4510",
+    "description": "Surgical stockings full length, each"
+  },
+  {
+    "hcpcs_code": "A4520",
+    "description": "Incontinence garment, any type, (e.g., brief, diaper), each"
+  },
+  {
+    "hcpcs_code": "A4540",
+    "description": "Distal transcutaneous electrical nerve stimulator, stimulates peripheral nerves of the upper arm"
+  },
+  {
+    "hcpcs_code": "A4541",
+    "description": "Monthly supplies for use of device coded at e0733"
+  },
+  {
+    "hcpcs_code": "A4542",
+    "description": "Supplies and accessories for external upper limb tremor stimulator of the peripheral nerves of the wrist"
+  },
+  {
+    "hcpcs_code": "A4543",
+    "description": "Supplies for transcutaneous electrical nerve stimulator, for nerves in the auricular region, per month"
+  },
+  {
+    "hcpcs_code": "A4544",
+    "description": "Electrode for external lower extremity nerve stimulator for restless legs syndrome"
+  },
+  {
+    "hcpcs_code": "A4545",
+    "description": "Supplies and accessories for external tibial nerve stimulator (e.g., socks, gel pads, electrodes, etc.), needed for one month"
+  },
+  {
+    "hcpcs_code": "A4550",
+    "description": "Surgical trays"
+  },
+  {
+    "hcpcs_code": "A4553",
+    "description": "Non-disposable underpads, all sizes"
+  },
+  {
+    "hcpcs_code": "A4554",
+    "description": "Disposable underpads, all sizes"
+  },
+  {
+    "hcpcs_code": "A4555",
+    "description": "Electrode/transducer for use with electrical stimulation device used for cancer treatment, replacement only"
+  },
+  {
+    "hcpcs_code": "A4556",
+    "description": "Electrodes, (e.g., apnea monitor), per pair"
+  },
+  {
+    "hcpcs_code": "A4557",
+    "description": "Lead wires, (e.g., apnea monitor), per pair"
+  },
+  {
+    "hcpcs_code": "A4558",
+    "description": "Conductive gel or paste, for use with electrical device (e.g., tens, nmes), per oz"
+  },
+  {
+    "hcpcs_code": "A4559",
+    "description": "Coupling gel or paste, for use with ultrasound device, per oz"
+  },
+  {
+    "hcpcs_code": "A4560",
+    "description": "Neuromuscular electrical stimulator (nmes), disposable, replacement only"
+  },
+  {
+    "hcpcs_code": "A4561",
+    "description": "Pessary, reusable, rubber, any type"
+  },
+  {
+    "hcpcs_code": "A4562",
+    "description": "Pessary, reusable, non rubber, any type"
+  },
+  {
+    "hcpcs_code": "A4563",
+    "description": "Rectal control system for vaginal insertion, for long term use, includes pump and all supplies and accessories, any type each"
+  },
+  {
+    "hcpcs_code": "A4564",
+    "description": "Pessary, disposable, any type"
+  },
+  {
+    "hcpcs_code": "A4565",
+    "description": "Slings"
+  },
+  {
+    "hcpcs_code": "A4566",
+    "description": "Shoulder sling or vest design, abduction restrainer, with or without swathe control, prefabricated, includes fitting and adjustment"
+  },
+  {
+    "hcpcs_code": "A4570",
+    "description": "Splint"
+  },
+  {
+    "hcpcs_code": "A4575",
+    "description": "Topical hyperbaric oxygen chamber, disposable"
+  },
+  {
+    "hcpcs_code": "A4580",
+    "description": "Cast supplies (e.g., plaster)"
+  },
+  {
+    "hcpcs_code": "A4590",
+    "description": "Special casting material (e.g., fiberglass)"
+  },
+  {
+    "hcpcs_code": "A4593",
+    "description": "Neuromodulation stimulator system, adjunct to rehabilitation therapy regime, controller"
+  },
+  {
+    "hcpcs_code": "A4594",
+    "description": "Neuromodulation stimulator system, adjunct to rehabilitation therapy regime, mouthpiece each"
+  },
+  {
+    "hcpcs_code": "A4595",
+    "description": "Electrical stimulator supplies, 2 lead, per month, (e.g., tens, nmes)"
+  },
+  {
+    "hcpcs_code": "A4596",
+    "description": "Cranial electrotherapy stimulation (ces) system supplies and accessories, per month"
+  },
+  {
+    "hcpcs_code": "A4600",
+    "description": "Sleeve for intermittent limb compression device, replacement only, each"
+  },
+  {
+    "hcpcs_code": "A4601",
+    "description": "Lithium ion battery, rechargeable, for non-prosthetic use, replacement"
+  },
+  {
+    "hcpcs_code": "A4602",
+    "description": "Replacement battery for external infusion pump owned by patient, lithium, 1.5 volt, each"
+  },
+  {
+    "hcpcs_code": "A4604",
+    "description": "Tubing with integrated heating element for use with positive airway pressure device"
+  },
+  {
+    "hcpcs_code": "A4605",
+    "description": "Tracheal suction catheter, closed system, each"
+  },
+  {
+    "hcpcs_code": "A4606",
+    "description": "Oxygen probe for use with oximeter device, replacement"
+  },
+  {
+    "hcpcs_code": "A4608",
+    "description": "Transtracheal oxygen catheter, each"
+  },
+  {
+    "hcpcs_code": "A4611",
+    "description": "Battery, heavy duty; replacement for patient owned ventilator"
+  },
+  {
+    "hcpcs_code": "A4612",
+    "description": "Battery cables; replacement for patient-owned ventilator"
+  },
+  {
+    "hcpcs_code": "A4613",
+    "description": "Battery charger; replacement for patient-owned ventilator"
+  },
+  {
+    "hcpcs_code": "A4614",
+    "description": "Peak expiratory flow rate meter, hand held"
+  },
+  {
+    "hcpcs_code": "A4615",
+    "description": "Cannula, nasal"
+  },
+  {
+    "hcpcs_code": "A4616",
+    "description": "Tubing (oxygen), per foot"
+  },
+  {
+    "hcpcs_code": "A4617",
+    "description": "Mouth piece"
+  },
+  {
+    "hcpcs_code": "A4618",
+    "description": "Breathing circuits"
+  },
+  {
+    "hcpcs_code": "A4619",
+    "description": "Face tent"
+  },
+  {
+    "hcpcs_code": "A4620",
+    "description": "Variable concentration mask"
+  },
+  {
+    "hcpcs_code": "A4623",
+    "description": "Tracheostomy, inner cannula"
+  },
+  {
+    "hcpcs_code": "A4624",
+    "description": "Tracheal suction catheter, any type other than closed system, each"
+  },
+  {
+    "hcpcs_code": "A4625",
+    "description": "Tracheostomy care kit for new tracheostomy"
+  },
+  {
+    "hcpcs_code": "A4626",
+    "description": "Tracheostomy cleaning brush, each"
+  },
+  {
+    "hcpcs_code": "A4627",
+    "description": "Spacer, bag or reservoir, with or without mask, for use with metered dose inhaler"
+  },
+  {
+    "hcpcs_code": "A4628",
+    "description": "Oral and/or oropharyngeal suction catheter, each"
+  },
+  {
+    "hcpcs_code": "A4629",
+    "description": "Tracheostomy care kit for established tracheostomy"
+  },
+  {
+    "hcpcs_code": "A4630",
+    "description": "Replacement batteries, medically necessary, transcutaneous electrical stimulator, owned by patient"
+  },
+  {
+    "hcpcs_code": "A4633",
+    "description": "Replacement bulb/lamp for ultraviolet light therapy system, each"
+  },
+  {
+    "hcpcs_code": "A4634",
+    "description": "Replacement bulb for therapeutic light box, tabletop model"
+  },
+  {
+    "hcpcs_code": "A4635",
+    "description": "Underarm pad, crutch, replacement, each"
+  },
+  {
+    "hcpcs_code": "A4636",
+    "description": "Replacement, handgrip, cane, crutch, or walker, each"
+  },
+  {
+    "hcpcs_code": "A4637",
+    "description": "Replacement, tip, cane, crutch, walker, each."
+  },
+  {
+    "hcpcs_code": "A4638",
+    "description": "Replacement battery for patient-owned ear pulse generator, each"
+  },
+  {
+    "hcpcs_code": "A4639",
+    "description": "Replacement pad for infrared heating pad system, each"
+  },
+  {
+    "hcpcs_code": "A4640",
+    "description": "Replacement pad for use with medically necessary alternating pressure pad owned by patient"
+  },
+  {
+    "hcpcs_code": "A4641",
+    "description": "Radiopharmaceutical, diagnostic, not otherwise classified"
+  },
+  {
+    "hcpcs_code": "A4642",
+    "description": "Indium in-111 satumomab pendetide, diagnostic, per study dose, up to 6 millicuries"
+  },
+  {
+    "hcpcs_code": "A4648",
+    "description": "Tissue marker, implantable, any type, each"
+  },
+  {
+    "hcpcs_code": "A4649",
+    "description": "Surgical supply; miscellaneous"
+  },
+  {
+    "hcpcs_code": "A4650",
+    "description": "Implantable radiation dosimeter, each"
+  },
+  {
+    "hcpcs_code": "A4651",
+    "description": "Calibrated microcapillary tube, each"
+  },
+  {
+    "hcpcs_code": "A4652",
+    "description": "Microcapillary tube sealant"
+  },
+  {
+    "hcpcs_code": "A4653",
+    "description": "Peritoneal dialysis catheter anchoring device, belt, each"
+  },
+  {
+    "hcpcs_code": "A4657",
+    "description": "Syringe, with or without needle, each"
+  },
+  {
+    "hcpcs_code": "A4660",
+    "description": "Sphygmomanometer/blood pressure apparatus with cuff and stethoscope"
+  },
+  {
+    "hcpcs_code": "A4663",
+    "description": "Blood pressure cuff only"
+  },
+  {
+    "hcpcs_code": "A4670",
+    "description": "Automatic blood pressure monitor"
+  },
+  {
+    "hcpcs_code": "A4671",
+    "description": "Disposable cycler set used with cycler dialysis machine, each"
+  },
+  {
+    "hcpcs_code": "A4672",
+    "description": "Drainage extension line, sterile, for dialysis, each"
+  },
+  {
+    "hcpcs_code": "A4673",
+    "description": "Extension line with easy lock connectors, used with dialysis"
+  },
+  {
+    "hcpcs_code": "A4674",
+    "description": "Chemicals/antiseptics solution used to clean/sterilize dialysis equipment, per 8 oz"
+  },
+  {
+    "hcpcs_code": "A4680",
+    "description": "Activated carbon filter for hemodialysis, each"
+  },
+  {
+    "hcpcs_code": "A4690",
+    "description": "Dialyzer (artificial kidneys), all types, all sizes, for hemodialysis, each"
+  },
+  {
+    "hcpcs_code": "A4706",
+    "description": "Bicarbonate concentrate, solution, for hemodialysis, per gallon"
+  },
+  {
+    "hcpcs_code": "A4707",
+    "description": "Bicarbonate concentrate, powder, for hemodialysis, per packet"
+  },
+  {
+    "hcpcs_code": "A4708",
+    "description": "Acetate concentrate solution, for hemodialysis, per gallon"
+  },
+  {
+    "hcpcs_code": "A4709",
+    "description": "Acid concentrate, solution, for hemodialysis, per gallon"
+  },
+  {
+    "hcpcs_code": "A4714",
+    "description": "Treated water (deionized, distilled, or reverse osmosis) for peritoneal dialysis, per gallon"
+  },
+  {
+    "hcpcs_code": "A4719",
+    "description": "\"y set\" tubing for peritoneal dialysis"
+  },
+  {
+    "hcpcs_code": "A4720",
+    "description": "Dialysate solution, any concentration of dextrose, fluid volume greater than 249 cc, but less than or equal to 999 cc, for peritoneal dialysis"
+  },
+  {
+    "hcpcs_code": "A4721",
+    "description": "Dialysate solution, any concentration of dextrose, fluid volume greater than 999 cc but less than or equal to 1999 cc, for peritoneal dialysis"
+  },
+  {
+    "hcpcs_code": "A4722",
+    "description": "Dialysate solution, any concentration of dextrose, fluid volume greater than 1999 cc but less than or equal to 2999 cc, for peritoneal dialysis"
+  },
+  {
+    "hcpcs_code": "A4723",
+    "description": "Dialysate solution, any concentration of dextrose, fluid volume greater than 2999 cc but less than or equal to 3999 cc, for peritoneal dialysis"
+  },
+  {
+    "hcpcs_code": "A4724",
+    "description": "Dialysate solution, any concentration of dextrose, fluid volume greater than 3999 cc but less than or equal to 4999 cc, for peritoneal dialysis"
+  },
+  {
+    "hcpcs_code": "A4725",
+    "description": "Dialysate solution, any concentration of dextrose, fluid volume greater than 4999 cc but less than or equal to 5999 cc, for peritoneal dialysis"
+  },
+  {
+    "hcpcs_code": "A4726",
+    "description": "Dialysate solution, any concentration of dextrose, fluid volume greater than 5999 cc, for peritoneal dialysis"
+  },
+  {
+    "hcpcs_code": "A4728",
+    "description": "Dialysate solution, non-dextrose containing, 500 ml"
+  },
+  {
+    "hcpcs_code": "A4730",
+    "description": "Fistula cannulation set for hemodialysis, each"
+  },
+  {
+    "hcpcs_code": "A4736",
+    "description": "Topical anesthetic, for dialysis, per gram"
+  },
+  {
+    "hcpcs_code": "A4737",
+    "description": "Injectable anesthetic, for dialysis, per 10 ml"
+  },
+  {
+    "hcpcs_code": "A4740",
+    "description": "Shunt accessory, for hemodialysis, any type, each"
+  },
+  {
+    "hcpcs_code": "A4750",
+    "description": "Blood tubing, arterial or venous, for hemodialysis, each"
+  },
+  {
+    "hcpcs_code": "A4755",
+    "description": "Blood tubing, arterial and venous combined, for hemodialysis, each"
+  },
+  {
+    "hcpcs_code": "A4760",
+    "description": "Dialysate solution test kit, for peritoneal dialysis, any type, each"
+  },
+  {
+    "hcpcs_code": "A4765",
+    "description": "Dialysate concentrate, powder, additive for peritoneal dialysis, per packet"
+  },
+  {
+    "hcpcs_code": "A4766",
+    "description": "Dialysate concentrate, solution, additive for peritoneal dialysis, per 10 ml"
+  },
+  {
+    "hcpcs_code": "A4770",
+    "description": "Blood collection tube, vacuum, for dialysis, per 50"
+  },
+  {
+    "hcpcs_code": "A4771",
+    "description": "Serum clotting time tube, for dialysis, per 50"
+  },
+  {
+    "hcpcs_code": "A4772",
+    "description": "Blood glucose test strips, for dialysis, per 50"
+  },
+  {
+    "hcpcs_code": "A4773",
+    "description": "Occult blood test strips, for dialysis, per 50"
+  },
+  {
+    "hcpcs_code": "A4774",
+    "description": "Ammonia test strips, for dialysis, per 50"
+  },
+  {
+    "hcpcs_code": "A4802",
+    "description": "Protamine sulfate, for hemodialysis, per 50 mg"
+  },
+  {
+    "hcpcs_code": "A4860",
+    "description": "Disposable catheter tips for peritoneal dialysis, per 10"
+  },
+  {
+    "hcpcs_code": "A4870",
+    "description": "Plumbing and/or electrical work for home hemodialysis equipment"
+  },
+  {
+    "hcpcs_code": "A4890",
+    "description": "Contracts, repair and maintenance, for hemodialysis equipment"
+  },
+  {
+    "hcpcs_code": "A4911",
+    "description": "Drain bag/bottle, for dialysis, each"
+  },
+  {
+    "hcpcs_code": "A4913",
+    "description": "Miscellaneous dialysis supplies, not otherwise specified"
+  },
+  {
+    "hcpcs_code": "A4918",
+    "description": "Venous pressure clamp, for hemodialysis, each"
+  },
+  {
+    "hcpcs_code": "A4927",
+    "description": "Gloves, non-sterile, per 100"
+  },
+  {
+    "hcpcs_code": "A4928",
+    "description": "Surgical mask, per 20"
+  },
+  {
+    "hcpcs_code": "A4929",
+    "description": "Tourniquet for dialysis, each"
+  },
+  {
+    "hcpcs_code": "A4930",
+    "description": "Gloves, sterile, per pair"
+  },
+  {
+    "hcpcs_code": "A4931",
+    "description": "Oral thermometer, reusable, any type, each"
+  },
+  {
+    "hcpcs_code": "A4932",
+    "description": "Rectal thermometer, reusable, any type, each"
+  },
+  {
+    "hcpcs_code": "A5051",
+    "description": "Ostomy pouch, closed; with barrier attached (1 piece), each"
+  },
+  {
+    "hcpcs_code": "A5052",
+    "description": "Ostomy pouch, closed; without barrier attached (1 piece), each"
+  },
+  {
+    "hcpcs_code": "A5053",
+    "description": "Ostomy pouch, closed; for use on faceplate, each"
+  },
+  {
+    "hcpcs_code": "A5054",
+    "description": "Ostomy pouch, closed; for use on barrier with flange (2 piece), each"
+  },
+  {
+    "hcpcs_code": "A5055",
+    "description": "Stoma cap"
+  },
+  {
+    "hcpcs_code": "A5056",
+    "description": "Ostomy pouch, drainable, with extended wear barrier attached, with filter, (1 piece), each"
+  },
+  {
+    "hcpcs_code": "A5057",
+    "description": "Ostomy pouch, drainable, with extended wear barrier attached, with built in convexity, with filter, (1 piece), each"
+  },
+  {
+    "hcpcs_code": "A5061",
+    "description": "Ostomy pouch, drainable; with barrier attached, (1 piece), each"
+  },
+  {
+    "hcpcs_code": "A5062",
+    "description": "Ostomy pouch, drainable; without barrier attached (1 piece), each"
+  },
+  {
+    "hcpcs_code": "A5063",
+    "description": "Ostomy pouch, drainable; for use on barrier with flange (2 piece system), each"
+  },
+  {
+    "hcpcs_code": "A5071",
+    "description": "Ostomy pouch, urinary; with barrier attached (1 piece), each"
+  },
+  {
+    "hcpcs_code": "A5072",
+    "description": "Ostomy pouch, urinary; without barrier attached (1 piece), each"
+  },
+  {
+    "hcpcs_code": "A5073",
+    "description": "Ostomy pouch, urinary; for use on barrier with flange (2 piece), each"
+  },
+  {
+    "hcpcs_code": "A5081",
+    "description": "Stoma plug or seal, any type"
+  },
+  {
+    "hcpcs_code": "A5082",
+    "description": "Continent device; catheter for continent stoma"
+  },
+  {
+    "hcpcs_code": "A5083",
+    "description": "Continent device, stoma absorptive cover for continent stoma"
+  },
+  {
+    "hcpcs_code": "A5093",
+    "description": "Ostomy accessory; convex insert"
+  },
+  {
+    "hcpcs_code": "A5102",
+    "description": "Bedside drainage bottle with or without tubing, rigid or expandable, each"
+  },
+  {
+    "hcpcs_code": "A5105",
+    "description": "Urinary suspensory with leg bag, with or without tube, each"
+  },
+  {
+    "hcpcs_code": "A5112",
+    "description": "Urinary drainage bag, leg or abdomen, latex, with or without tube, with straps, each"
+  },
+  {
+    "hcpcs_code": "A5113",
+    "description": "Leg strap; latex, replacement only, per set"
+  },
+  {
+    "hcpcs_code": "A5114",
+    "description": "Leg strap; foam or fabric, replacement only, per set"
+  },
+  {
+    "hcpcs_code": "A5120",
+    "description": "Skin barrier, wipes or swabs, each"
+  },
+  {
+    "hcpcs_code": "A5121",
+    "description": "Skin barrier; solid, 6 x 6 or equivalent, each"
+  },
+  {
+    "hcpcs_code": "A5122",
+    "description": "Skin barrier; solid, 8 x 8 or equivalent, each"
+  },
+  {
+    "hcpcs_code": "A5126",
+    "description": "Adhesive or non-adhesive; disk or foam pad"
+  },
+  {
+    "hcpcs_code": "A5131",
+    "description": "Appliance cleaner, incontinence and ostomy appliances, per 16 oz."
+  },
+  {
+    "hcpcs_code": "A5200",
+    "description": "Percutaneous catheter/tube anchoring device, adhesive skin attachment"
+  },
+  {
+    "hcpcs_code": "A5500",
+    "description": "For diabetics only, fitting (including follow-up), custom preparation and supply of off-the-shelf depth-inlay shoe manufactured to accommodate multi-density insert(s), per shoe"
+  },
+  {
+    "hcpcs_code": "A5501",
+    "description": "For diabetics only, fitting (including follow-up), custom preparation and supply of shoe molded from cast(s) of patient's foot (custom molded shoe), per shoe"
+  },
+  {
+    "hcpcs_code": "A5503",
+    "description": "For diabetics only, modification (including fitting) of off-the-shelf depth-inlay shoe or custom-molded shoe with roller or rigid rocker bottom, per shoe"
+  },
+  {
+    "hcpcs_code": "A5504",
+    "description": "For diabetics only, modification (including fitting) of off-the-shelf depth-inlay shoe or custom-molded shoe with wedge(s), per shoe"
+  },
+  {
+    "hcpcs_code": "A5505",
+    "description": "For diabetics only, modification (including fitting) of off-the-shelf depth-inlay shoe or custom-molded shoe with metatarsal bar, per shoe"
+  },
+  {
+    "hcpcs_code": "A5506",
+    "description": "For diabetics only, modification (including fitting) of off-the-shelf depth-inlay shoe or custom-molded shoe with off-set heel(s), per shoe"
+  },
+  {
+    "hcpcs_code": "A5507",
+    "description": "For diabetics only, not otherwise specified modification (including fitting) of off-the-shelf depth-inlay shoe or custom-molded shoe, per shoe"
+  },
+  {
+    "hcpcs_code": "A5508",
+    "description": "For diabetics only, deluxe feature of off-the-shelf depth-inlay shoe or custom-molded shoe, per shoe"
+  },
+  {
+    "hcpcs_code": "A5510",
+    "description": "For diabetics only, direct formed, compression molded to patient's foot without external heat source, multiple-density insert(s) prefabricated, per shoe"
+  },
+  {
+    "hcpcs_code": "A5512",
+    "description": "For diabetics only, multiple density insert, direct formed, molded to foot after external heat source of 230 degrees fahrenheit or higher, total contact with patient's foot, including arch, base layer minimum of 1/4 inch material of shore a 35 durometer or 3/16 inch material of shore a 40 durometer (or higher), prefabricated, each"
+  },
+  {
+    "hcpcs_code": "A5513",
+    "description": "For diabetics only, multiple density insert, custom molded from model of patient's foot, total contact with patient's foot, including arch, base layer minimum of 3/16 inch material of shore a 35 durometer (or higher), includes arch filler and other shaping material, custom fabricated, each"
+  },
+  {
+    "hcpcs_code": "A5514",
+    "description": "For diabetics only, multiple density insert, made by direct carving with cam technology from a rectified cad model created from a digitized scan of the patient, total contact with patient's foot, including arch, base layer minimum of 3/16 inch material of shore a 35 durometer (or higher), includes arch filler and other shaping material, custom fabricated, each"
+  },
+  {
+    "hcpcs_code": "A6000",
+    "description": "Non-contact wound warming wound cover for use with the non-contact wound warming device and warming card"
+  },
+  {
+    "hcpcs_code": "A6010",
+    "description": "Collagen based wound filler, dry form, sterile, per gram of collagen"
+  },
+  {
+    "hcpcs_code": "A6011",
+    "description": "Collagen based wound filler, gel/paste, per gram of collagen"
+  },
+  {
+    "hcpcs_code": "A6021",
+    "description": "Collagen dressing, sterile, size 16 sq. in. or less, each"
+  },
+  {
+    "hcpcs_code": "A6022",
+    "description": "Collagen dressing, sterile, size more than 16 sq. in. but less than or equal to 48 sq. in., each"
+  },
+  {
+    "hcpcs_code": "A6023",
+    "description": "Collagen dressing, sterile, size more than 48 sq. in., each"
+  },
+  {
+    "hcpcs_code": "A6024",
+    "description": "Collagen dressing wound filler, sterile, per 6 inches"
+  },
+  {
+    "hcpcs_code": "A6025",
+    "description": "Gel sheet for dermal or epidermal application, (e.g., silicone, hydrogel, other), each"
+  },
+  {
+    "hcpcs_code": "A6154",
+    "description": "Wound pouch, each"
+  },
+  {
+    "hcpcs_code": "A6196",
+    "description": "Alginate or other fiber gelling dressing, wound cover, sterile, pad size 16 sq. in. or less, each dressing"
+  },
+  {
+    "hcpcs_code": "A6197",
+    "description": "Alginate or other fiber gelling dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., each dressing"
+  },
+  {
+    "hcpcs_code": "A6198",
+    "description": "Alginate or other fiber gelling dressing, wound cover, sterile, pad size more than 48 sq. in., each dressing"
+  },
+  {
+    "hcpcs_code": "A6199",
+    "description": "Alginate or other fiber gelling dressing, wound filler, sterile, per 6 inches"
+  },
+  {
+    "hcpcs_code": "A6203",
+    "description": "Composite dressing, sterile, pad size 16 sq. in. or less, with any size adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6204",
+    "description": "Composite dressing, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., with any size adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6205",
+    "description": "Composite dressing, sterile, pad size more than 48 sq. in., with any size adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6206",
+    "description": "Contact layer, sterile, 16 sq. in. or less, each dressing"
+  },
+  {
+    "hcpcs_code": "A6207",
+    "description": "Contact layer, sterile, more than 16 sq. in. but less than or equal to 48 sq. in., each dressing"
+  },
+  {
+    "hcpcs_code": "A6208",
+    "description": "Contact layer, sterile, more than 48 sq. in., each dressing"
+  },
+  {
+    "hcpcs_code": "A6209",
+    "description": "Foam dressing, wound cover, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6210",
+    "description": "Foam dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6211",
+    "description": "Foam dressing, wound cover, sterile, pad size more than 48 sq. in., without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6212",
+    "description": "Foam dressing, wound cover, sterile, pad size 16 sq. in. or less, with any size adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6213",
+    "description": "Foam dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., with any size adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6214",
+    "description": "Foam dressing, wound cover, sterile, pad size more than 48 sq. in., with any size adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6215",
+    "description": "Foam dressing, wound filler, sterile, per gram"
+  },
+  {
+    "hcpcs_code": "A6216",
+    "description": "Gauze, non-impregnated, non-sterile, pad size 16 sq. in. or less, without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6217",
+    "description": "Gauze, non-impregnated, non-sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6218",
+    "description": "Gauze, non-impregnated, non-sterile, pad size more than 48 sq. in., without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6219",
+    "description": "Gauze, non-impregnated, sterile, pad size 16 sq. in. or less, with any size adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6220",
+    "description": "Gauze, non-impregnated, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., with any size adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6221",
+    "description": "Gauze, non-impregnated, sterile, pad size more than 48 sq. in., with any size adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6222",
+    "description": "Gauze, impregnated with other than water, normal saline, or hydrogel, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6223",
+    "description": "Gauze, impregnated with other than water, normal saline, or hydrogel, sterile, pad size more than 16 sq. in., but less than or equal to 48 sq. in., without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6224",
+    "description": "Gauze, impregnated with other than water, normal saline, or hydrogel, sterile, pad size more than 48 sq. in., without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6228",
+    "description": "Gauze, impregnated, water or normal saline, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6229",
+    "description": "Gauze, impregnated, water or normal saline, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6230",
+    "description": "Gauze, impregnated, water or normal saline, sterile, pad size more than 48 sq. in., without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6231",
+    "description": "Gauze, impregnated, hydrogel, for direct wound contact, sterile, pad size 16 sq. in. or less, each dressing"
+  },
+  {
+    "hcpcs_code": "A6232",
+    "description": "Gauze, impregnated, hydrogel, for direct wound contact, sterile, pad size greater than 16 sq. in., but less than or equal to 48 sq. in., each dressing"
+  },
+  {
+    "hcpcs_code": "A6233",
+    "description": "Gauze, impregnated, hydrogel, for direct wound contact, sterile, pad size more than 48 sq. in., each dressing"
+  },
+  {
+    "hcpcs_code": "A6234",
+    "description": "Hydrocolloid dressing, wound cover, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6235",
+    "description": "Hydrocolloid dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6236",
+    "description": "Hydrocolloid dressing, wound cover, sterile, pad size more than 48 sq. in., without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6237",
+    "description": "Hydrocolloid dressing, wound cover, sterile, pad size 16 sq. in. or less, with any size adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6238",
+    "description": "Hydrocolloid dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., with any size adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6239",
+    "description": "Hydrocolloid dressing, wound cover, sterile, pad size more than 48 sq. in., with any size adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6240",
+    "description": "Hydrocolloid dressing, wound filler, paste, sterile, per ounce"
+  },
+  {
+    "hcpcs_code": "A6241",
+    "description": "Hydrocolloid dressing, wound filler, dry form, sterile, per gram"
+  },
+  {
+    "hcpcs_code": "A6242",
+    "description": "Hydrogel dressing, wound cover, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6243",
+    "description": "Hydrogel dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6244",
+    "description": "Hydrogel dressing, wound cover, sterile, pad size more than 48 sq. in., without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6245",
+    "description": "Hydrogel dressing, wound cover, sterile, pad size 16 sq. in. or less, with any size adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6246",
+    "description": "Hydrogel dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., with any size adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6247",
+    "description": "Hydrogel dressing, wound cover, sterile, pad size more than 48 sq. in., with any size adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6248",
+    "description": "Hydrogel dressing, wound filler, gel, per fluid ounce"
+  },
+  {
+    "hcpcs_code": "A6250",
+    "description": "Skin sealants, protectants, moisturizers, ointments, any type, any size"
+  },
+  {
+    "hcpcs_code": "A6251",
+    "description": "Specialty absorptive dressing, wound cover, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6252",
+    "description": "Specialty absorptive dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6253",
+    "description": "Specialty absorptive dressing, wound cover, sterile, pad size more than 48 sq. in., without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6254",
+    "description": "Specialty absorptive dressing, wound cover, sterile, pad size 16 sq. in. or less, with any size adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6255",
+    "description": "Specialty absorptive dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., with any size adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6256",
+    "description": "Specialty absorptive dressing, wound cover, sterile, pad size more than 48 sq. in., with any size adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6257",
+    "description": "Transparent film, sterile, 16 sq. in. or less, each dressing"
+  },
+  {
+    "hcpcs_code": "A6258",
+    "description": "Transparent film, sterile, more than 16 sq. in. but less than or equal to 48 sq. in., each dressing"
+  },
+  {
+    "hcpcs_code": "A6259",
+    "description": "Transparent film, sterile, more than 48 sq. in., each dressing"
+  },
+  {
+    "hcpcs_code": "A6260",
+    "description": "Wound cleansers, any type, any size"
+  },
+  {
+    "hcpcs_code": "A6261",
+    "description": "Wound filler, gel/paste, per fluid ounce, not otherwise specified"
+  },
+  {
+    "hcpcs_code": "A6262",
+    "description": "Wound filler, dry form, per gram, not otherwise specified"
+  },
+  {
+    "hcpcs_code": "A6266",
+    "description": "Gauze, impregnated, other than water, normal saline, or zinc paste, sterile, any width, per linear yard"
+  },
+  {
+    "hcpcs_code": "A6402",
+    "description": "Gauze, non-impregnated, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6403",
+    "description": "Gauze, non-impregnated, sterile, pad size more than 16 sq. in. less than or equal to 48 sq. in., without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6404",
+    "description": "Gauze, non-impregnated, sterile, pad size more than 48 sq. in., without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6407",
+    "description": "Packing strips, non-impregnated, sterile, up to 2 inches in width, per linear yard"
+  },
+  {
+    "hcpcs_code": "A6410",
+    "description": "Eye pad, sterile, each"
+  },
+  {
+    "hcpcs_code": "A6411",
+    "description": "Eye pad, non-sterile, each"
+  },
+  {
+    "hcpcs_code": "A6412",
+    "description": "Eye patch, occlusive, each"
+  },
+  {
+    "hcpcs_code": "A6413",
+    "description": "Adhesive bandage, first-aid type, any size, each"
+  },
+  {
+    "hcpcs_code": "A6441",
+    "description": "Padding bandage, non-elastic, non-woven/non-knitted, width greater than or equal to three inches and less than five inches, per yard"
+  },
+  {
+    "hcpcs_code": "A6442",
+    "description": "Conforming bandage, non-elastic, knitted/woven, non-sterile, width less than three inches, per yard"
+  },
+  {
+    "hcpcs_code": "A6443",
+    "description": "Conforming bandage, non-elastic, knitted/woven, non-sterile, width greater than or equal to three inches and less than five inches, per yard"
+  },
+  {
+    "hcpcs_code": "A6444",
+    "description": "Conforming bandage, non-elastic, knitted/woven, non-sterile, width greater than or equal to 5 inches, per yard"
+  },
+  {
+    "hcpcs_code": "A6445",
+    "description": "Conforming bandage, non-elastic, knitted/woven, sterile, width less than three inches, per yard"
+  },
+  {
+    "hcpcs_code": "A6446",
+    "description": "Conforming bandage, non-elastic, knitted/woven, sterile, width greater than or equal to three inches and less than five inches, per yard"
+  },
+  {
+    "hcpcs_code": "A6447",
+    "description": "Conforming bandage, non-elastic, knitted/woven, sterile, width greater than or equal to five inches, per yard"
+  },
+  {
+    "hcpcs_code": "A6448",
+    "description": "Light compression bandage, elastic, knitted/woven, width less than three inches, per yard"
+  },
+  {
+    "hcpcs_code": "A6449",
+    "description": "Light compression bandage, elastic, knitted/woven, width greater than or equal to three inches and less than five inches, per yard"
+  },
+  {
+    "hcpcs_code": "A6450",
+    "description": "Light compression bandage, elastic, knitted/woven, width greater than or equal to five inches, per yard"
+  },
+  {
+    "hcpcs_code": "A6451",
+    "description": "Moderate compression bandage, elastic, knitted/woven, load resistance of 1.25 to 1.34 foot pounds at 50% maximum stretch, width greater than or equal to three inches and less than five inches, per yard"
+  },
+  {
+    "hcpcs_code": "A6452",
+    "description": "High compression bandage, elastic, knitted/woven, load resistance greater than or equal to 1.35 foot pounds at 50% maximum stretch, width greater than or equal to three inches and less than five inches, per yard"
+  },
+  {
+    "hcpcs_code": "A6453",
+    "description": "Self-adherent bandage, elastic, non-knitted/non-woven, width less than three inches, per yard"
+  },
+  {
+    "hcpcs_code": "A6454",
+    "description": "Self-adherent bandage, elastic, non-knitted/non-woven, width greater than or equal to three inches and less than five inches, per yard"
+  },
+  {
+    "hcpcs_code": "A6455",
+    "description": "Self-adherent bandage, elastic, non-knitted/non-woven, width greater than or equal to five inches, per yard"
+  },
+  {
+    "hcpcs_code": "A6456",
+    "description": "Zinc paste impregnated bandage, non-elastic, knitted/woven, width greater than or equal to three inches and less than five inches, per yard"
+  },
+  {
+    "hcpcs_code": "A6457",
+    "description": "Tubular dressing with or without elastic, any width, per linear yard"
+  },
+  {
+    "hcpcs_code": "A6460",
+    "description": "Synthetic resorbable wound dressing, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6461",
+    "description": "Synthetic resorbable wound dressing, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing"
+  },
+  {
+    "hcpcs_code": "A6501",
+    "description": "Compression burn garment, bodysuit (head to foot), custom fabricated"
+  },
+  {
+    "hcpcs_code": "A6502",
+    "description": "Compression burn garment, chin strap, custom fabricated"
+  },
+  {
+    "hcpcs_code": "A6503",
+    "description": "Compression burn garment, facial hood, custom fabricated"
+  },
+  {
+    "hcpcs_code": "A6504",
+    "description": "Compression burn garment, glove to wrist, custom fabricated"
+  },
+  {
+    "hcpcs_code": "A6505",
+    "description": "Compression burn garment, glove to elbow, custom fabricated"
+  },
+  {
+    "hcpcs_code": "A6506",
+    "description": "Compression burn garment, glove to axilla, custom fabricated"
+  },
+  {
+    "hcpcs_code": "A6507",
+    "description": "Compression burn garment, foot to knee length, custom fabricated"
+  },
+  {
+    "hcpcs_code": "A6508",
+    "description": "Compression burn garment, foot to thigh length, custom fabricated"
+  },
+  {
+    "hcpcs_code": "A6509",
+    "description": "Compression burn garment, upper trunk to waist including arm openings (vest), custom fabricated"
+  },
+  {
+    "hcpcs_code": "A6510",
+    "description": "Compression burn garment, trunk, including arms down to leg openings (leotard), custom fabricated"
+  },
+  {
+    "hcpcs_code": "A6511",
+    "description": "Compression burn garment, lower trunk including leg openings (panty), custom fabricated"
+  },
+  {
+    "hcpcs_code": "A6512",
+    "description": "Compression burn garment, not otherwise classified"
+  },
+  {
+    "hcpcs_code": "A6513",
+    "description": "Compression burn mask, face and/or neck, plastic or equal, custom fabricated"
+  },
+  {
+    "hcpcs_code": "A6515",
+    "description": "Gradient compression wrap with adjustable straps, full leg, each, custom"
+  },
+  {
+    "hcpcs_code": "A6516",
+    "description": "Gradient compression wrap with adjustable straps, foot, each, custom"
+  },
+  {
+    "hcpcs_code": "A6517",
+    "description": "Gradient compression wrap with adjustable straps, below knee, each, custom"
+  },
+  {
+    "hcpcs_code": "A6518",
+    "description": "Gradient compression wrap with adjustable straps, arm, each, custom"
+  },
+  {
+    "hcpcs_code": "A6519",
+    "description": "Gradient compression garment, not otherwise specified, for nighttime use, each"
+  },
+  {
+    "hcpcs_code": "A6520",
+    "description": "Gradient compression garment, glove, padded, for nighttime use, each"
+  },
+  {
+    "hcpcs_code": "A6521",
+    "description": "Gradient compression garment, glove, padded, for nighttime use, custom, each"
+  },
+  {
+    "hcpcs_code": "A6522",
+    "description": "Gradient compression garment, arm, padded, for nighttime use, each"
+  },
+  {
+    "hcpcs_code": "A6523",
+    "description": "Gradient compression garment, arm, padded, for nighttime use, custom, each"
+  },
+  {
+    "hcpcs_code": "A6524",
+    "description": "Gradient compression garment, lower leg and foot, padded, for nighttime use, each"
+  },
+  {
+    "hcpcs_code": "A6525",
+    "description": "Gradient compression garment, lower leg and foot, padded, for nighttime use, custom, each"
+  },
+  {
+    "hcpcs_code": "A6526",
+    "description": "Gradient compression garment, full leg and foot, padded, for nighttime use, each"
+  },
+  {
+    "hcpcs_code": "A6527",
+    "description": "Gradient compression garment, full leg and foot, padded, for nighttime use, custom, each"
+  },
+  {
+    "hcpcs_code": "A6528",
+    "description": "Gradient compression garment, bra, for nighttime use, each"
+  },
+  {
+    "hcpcs_code": "A6529",
+    "description": "Gradient compression garment, bra, for nighttime use, custom, each"
+  },
+  {
+    "hcpcs_code": "A6530",
+    "description": "Gradient compression stocking, below knee, 18-30 mmhg, each"
+  },
+  {
+    "hcpcs_code": "A6531",
+    "description": "Gradient compression stocking, below knee, 30-40 mmhg, used as a surgical dressing, each"
+  },
+  {
+    "hcpcs_code": "A6532",
+    "description": "Gradient compression stocking, below knee, 40-50 mmhg, used as a surgical dressing, each"
+  },
+  {
+    "hcpcs_code": "A6533",
+    "description": "Gradient compression stocking, thigh length, 18-30 mmhg, each"
+  },
+  {
+    "hcpcs_code": "A6534",
+    "description": "Gradient compression stocking, thigh length, 30-40 mmhg, each"
+  },
+  {
+    "hcpcs_code": "A6535",
+    "description": "Gradient compression stocking, thigh length, 40 mmhg or greater, each"
+  },
+  {
+    "hcpcs_code": "A6536",
+    "description": "Gradient compression stocking, full length/chap style, 18-30 mmhg, each"
+  },
+  {
+    "hcpcs_code": "A6537",
+    "description": "Gradient compression stocking, full length/chap style, 30-40 mmhg, each"
+  },
+  {
+    "hcpcs_code": "A6538",
+    "description": "Gradient compression stocking, full length/chap style, 40 mmhg or greater, each"
+  },
+  {
+    "hcpcs_code": "A6539",
+    "description": "Gradient compression stocking, waist length, 18-30 mmhg, each"
+  },
+  {
+    "hcpcs_code": "A6540",
+    "description": "Gradient compression stocking, waist length, 30-40 mmhg, each"
+  },
+  {
+    "hcpcs_code": "A6541",
+    "description": "Gradient compression stocking, waist length, 40 mmhg or greater, each"
+  },
+  {
+    "hcpcs_code": "A6544",
+    "description": "Gradient compression stocking, garter belt"
+  },
+  {
+    "hcpcs_code": "A6545",
+    "description": "Gradient compression wrap, non-elastic, below knee, 30-50 mmhg, used as a surgical dressing, each"
+  },
+  {
+    "hcpcs_code": "A6548",
+    "description": "Accessory to custom gradient compression garment, silicone band, any size"
+  },
+  {
+    "hcpcs_code": "A6549",
+    "description": "Gradient compression garment, not otherwise specified, for daytime use, each"
+  },
+  {
+    "hcpcs_code": "A6550",
+    "description": "Wound care set, for negative pressure wound therapy electrical pump, includes all supplies and accessories"
+  },
+  {
+    "hcpcs_code": "A6552",
+    "description": "Gradient compression stocking, below knee, 30-40 mmhg, each"
+  },
+  {
+    "hcpcs_code": "A6553",
+    "description": "Gradient compression stocking, below knee, 30-40 mmhg, custom, each"
+  },
+  {
+    "hcpcs_code": "A6554",
+    "description": "Gradient compression stocking, below knee, 40 mmhg or greater, each"
+  },
+  {
+    "hcpcs_code": "A6555",
+    "description": "Gradient compression stocking, below knee, 40 mmhg or greater, custom, each"
+  },
+  {
+    "hcpcs_code": "A6556",
+    "description": "Gradient compression stocking, thigh length, 18-30 mmhg, custom, each"
+  },
+  {
+    "hcpcs_code": "A6557",
+    "description": "Gradient compression stocking, thigh length, 30-40 mmhg, custom, each"
+  },
+  {
+    "hcpcs_code": "A6558",
+    "description": "Gradient compression stocking, thigh length, 40 mmhg or greater, custom, each"
+  },
+  {
+    "hcpcs_code": "A6559",
+    "description": "Gradient compression stocking, full length/chap style, 18-30 mmhg, custom, each"
+  },
+  {
+    "hcpcs_code": "A6560",
+    "description": "Gradient compression stocking, full length/chap style, 30-40 mmhg, custom, each"
+  },
+  {
+    "hcpcs_code": "A6561",
+    "description": "Gradient compression stocking, full length/chap style, 40 mmhg or greater, custom, each"
+  },
+  {
+    "hcpcs_code": "A6562",
+    "description": "Gradient compression stocking, waist length, 18-30 mmhg, custom, each"
+  },
+  {
+    "hcpcs_code": "A6563",
+    "description": "Gradient compression stocking, waist length, 30-40 mmhg, custom, each"
+  },
+  {
+    "hcpcs_code": "A6564",
+    "description": "Gradient compression stocking, waist length, 40 mmhg or greater, custom, each"
+  },
+  {
+    "hcpcs_code": "A6565",
+    "description": "Gradient compression gauntlet, custom, each"
+  },
+  {
+    "hcpcs_code": "A6566",
+    "description": "Gradient compression garment, neck/head, each"
+  },
+  {
+    "hcpcs_code": "A6567",
+    "description": "Gradient compression garment, neck/head, custom, each"
+  },
+  {
+    "hcpcs_code": "A6568",
+    "description": "Gradient compression garment, torso and shoulder, each"
+  },
+  {
+    "hcpcs_code": "A6569",
+    "description": "Gradient compression garment, torso/shoulder, custom, each"
+  },
+  {
+    "hcpcs_code": "A6570",
+    "description": "Gradient compression garment, genital region, each"
+  },
+  {
+    "hcpcs_code": "A6571",
+    "description": "Gradient compression garment, genital region, custom, each"
+  },
+  {
+    "hcpcs_code": "A6572",
+    "description": "Gradient compression garment, toe caps, each"
+  },
+  {
+    "hcpcs_code": "A6573",
+    "description": "Gradient compression garment, toe caps, custom, each"
+  },
+  {
+    "hcpcs_code": "A6574",
+    "description": "Gradient compression arm sleeve and glove combination, custom, each"
+  },
+  {
+    "hcpcs_code": "A6575",
+    "description": "Gradient  compression arm sleeve and glove combination, each"
+  },
+  {
+    "hcpcs_code": "A6576",
+    "description": "Gradient  compression arm sleeve, custom, medium weight, each"
+  },
+  {
+    "hcpcs_code": "A6577",
+    "description": "Gradient  compression arm sleeve, custom, heavy weight, each"
+  },
+  {
+    "hcpcs_code": "A6578",
+    "description": "Gradient  compression arm sleeve, each"
+  },
+  {
+    "hcpcs_code": "A6579",
+    "description": "Gradient compression glove, custom, medium weight, each"
+  },
+  {
+    "hcpcs_code": "A6580",
+    "description": "Gradient  compression glove, custom, heavy weight, each"
+  },
+  {
+    "hcpcs_code": "A6581",
+    "description": "Gradient compression glove, each"
+  },
+  {
+    "hcpcs_code": "A6582",
+    "description": "Gradient compression gauntlet, each"
+  },
+  {
+    "hcpcs_code": "A6583",
+    "description": "Gradient compression wrap with adjustable straps, below knee, each"
+  },
+  {
+    "hcpcs_code": "A6584",
+    "description": "Gradient compression wrap with adjustable straps, not otherwise specified"
+  },
+  {
+    "hcpcs_code": "A6585",
+    "description": "Gradient compression wrap with adjustable straps, above knee, each"
+  },
+  {
+    "hcpcs_code": "A6586",
+    "description": "Gradient compression wrap with adjustable straps, full leg, each"
+  },
+  {
+    "hcpcs_code": "A6587",
+    "description": "Gradient compression wrap with adjustable straps, foot, each"
+  },
+  {
+    "hcpcs_code": "A6588",
+    "description": "Gradient compression wrap with adjustable straps, arm, each"
+  },
+  {
+    "hcpcs_code": "A6589",
+    "description": "Gradient pressure wrap with adjustable straps, bra, each"
+  },
+  {
+    "hcpcs_code": "A6590",
+    "description": "External urinary catheters; disposable, with wicking material, for use with suction pump, per month"
+  },
+  {
+    "hcpcs_code": "A6591",
+    "description": "External urinary catheter; non-disposable, for use with suction pump, per month"
+  },
+  {
+    "hcpcs_code": "A6593",
+    "description": "Accessory for gradient compression garment or wrap with adjustable straps, not-otherwise specified"
+  },
+  {
+    "hcpcs_code": "A6594",
+    "description": "Gradient compression bandaging supply, bandage liner, lower extremity, any size or length, each"
+  },
+  {
+    "hcpcs_code": "A6595",
+    "description": "Gradient compression bandaging supply, bandage liner, upper extremity, any size or length, each"
+  },
+  {
+    "hcpcs_code": "A6596",
+    "description": "Gradient compression bandaging supply, conforming gauze, per linear yard, any width, each"
+  },
+  {
+    "hcpcs_code": "A6597",
+    "description": "Gradient compression bandage roll, elastic long stretch, linear yard, any width, each"
+  },
+  {
+    "hcpcs_code": "A6598",
+    "description": "Gradient compression bandage roll, elastic medium stretch, per linear yard, any width, each"
+  },
+  {
+    "hcpcs_code": "A6599",
+    "description": "Gradient compression bandage roll, inelastic short stretch, per linear yard, any width, each"
+  },
+  {
+    "hcpcs_code": "A6600",
+    "description": "Gradient compression bandaging supply, high density foam sheet, per 250 square centimeters, each"
+  },
+  {
+    "hcpcs_code": "A6601",
+    "description": "Gradient compression bandaging supply, high density foam pad, any size or shape, each"
+  },
+  {
+    "hcpcs_code": "A6602",
+    "description": "Gradient compression bandaging supply, high density foam roll for bandage, per linear yard, any width, each"
+  },
+  {
+    "hcpcs_code": "A6603",
+    "description": "Gradient compression bandaging supply, low density channel foam sheet, per 250 square centimeters, each"
+  },
+  {
+    "hcpcs_code": "A6604",
+    "description": "Gradient compression bandaging supply, low density flat foam sheet, per 250 square centimeters, each"
+  },
+  {
+    "hcpcs_code": "A6605",
+    "description": "Gradient compression bandaging supply, padded foam, per linear yard, any width, each"
+  },
+  {
+    "hcpcs_code": "A6606",
+    "description": "Gradient compression bandaging supply, padded textile, per linear yard, any width, each"
+  },
+  {
+    "hcpcs_code": "A6607",
+    "description": "Gradient compression bandaging supply, tubular protective absorption layer, per linear yard, any width, each"
+  },
+  {
+    "hcpcs_code": "A6608",
+    "description": "Gradient compression bandaging supply, tubular protective absorption padded layer, per linear yard, any width, each"
+  },
+  {
+    "hcpcs_code": "A6609",
+    "description": "Gradient compression bandaging supply, not otherwise specified"
+  },
+  {
+    "hcpcs_code": "A6610",
+    "description": "Gradient compression stocking, below knee, 18-30 mmhg, custom, each"
+  },
+  {
+    "hcpcs_code": "A6611",
+    "description": "Gradient compression wrap with adjustable straps, above knee, each, custom"
+  },
+  {
+    "hcpcs_code": "A7000",
+    "description": "Canister, disposable, used with suction pump, each"
+  },
+  {
+    "hcpcs_code": "A7001",
+    "description": "Canister, non-disposable, used with suction pump, each"
+  },
+  {
+    "hcpcs_code": "A7002",
+    "description": "Tubing, used with suction pump, each"
+  },
+  {
+    "hcpcs_code": "A7003",
+    "description": "Administration set, with small volume nonfiltered pneumatic nebulizer, disposable"
+  },
+  {
+    "hcpcs_code": "A7004",
+    "description": "Small volume nonfiltered pneumatic nebulizer, disposable"
+  },
+  {
+    "hcpcs_code": "A7005",
+    "description": "Administration set, with small volume nonfiltered pneumatic nebulizer, non-disposable"
+  },
+  {
+    "hcpcs_code": "A7006",
+    "description": "Administration set, with small volume filtered pneumatic nebulizer"
+  },
+  {
+    "hcpcs_code": "A7007",
+    "description": "Large volume nebulizer, disposable, unfilled, used with aerosol compressor"
+  },
+  {
+    "hcpcs_code": "A7008",
+    "description": "Large volume nebulizer, disposable, prefilled, used with aerosol compressor"
+  },
+  {
+    "hcpcs_code": "A7009",
+    "description": "Reservoir bottle, non-disposable, used with large volume ultrasonic nebulizer"
+  },
+  {
+    "hcpcs_code": "A7010",
+    "description": "Corrugated tubing, disposable, used with large volume nebulizer, 100 feet"
+  },
+  {
+    "hcpcs_code": "A7011",
+    "description": "Corrugated tubing, non-disposable, used with large volume nebulizer, 10 feet Terminated December 31, 2015."
+  },
+  {
+    "hcpcs_code": "A7012",
+    "description": "Water collection device, used with large volume nebulizer"
+  },
+  {
+    "hcpcs_code": "A7013",
+    "description": "Filter, disposable, used with aerosol compressor or ultrasonic generator"
+  },
+  {
+    "hcpcs_code": "A7014",
+    "description": "Filter, nondisposable, used with aerosol compressor or ultrasonic generator"
+  },
+  {
+    "hcpcs_code": "A7015",
+    "description": "Aerosol mask, used with dme nebulizer"
+  },
+  {
+    "hcpcs_code": "A7016",
+    "description": "Dome and mouthpiece, used with small volume ultrasonic nebulizer"
+  },
+  {
+    "hcpcs_code": "A7017",
+    "description": "Nebulizer, durable, glass or autoclavable plastic, bottle type, not used with oxygen"
+  },
+  {
+    "hcpcs_code": "A7018",
+    "description": "Water, distilled, used with large volume nebulizer, 1000 ml"
+  },
+  {
+    "hcpcs_code": "A7020",
+    "description": "Interface for cough stimulating device, includes all components, replacement only"
+  },
+  {
+    "hcpcs_code": "A7021",
+    "description": "Supplies and accessories for lung expansion airway clearance, continuous high frequency oscillation, and nebulization device (e.g., handset, nebulizer kit, biofilter)"
+  },
+  {
+    "hcpcs_code": "A7023",
+    "description": "Mechanical allergen particle barrier/inhalation filter, cream, nasal, topical"
+  },
+  {
+    "hcpcs_code": "A7025",
+    "description": "High frequency chest wall oscillation system vest, replacement for use with patient owned equipment, each"
+  },
+  {
+    "hcpcs_code": "A7026",
+    "description": "High frequency chest wall oscillation system hose, replacement for use with patient owned equipment, each"
+  },
+  {
+    "hcpcs_code": "A7027",
+    "description": "Combination oral/nasal mask, used with continuous positive airway pressure device, each"
+  },
+  {
+    "hcpcs_code": "A7028",
+    "description": "Oral cushion for combination oral/nasal mask, replacement only, each"
+  },
+  {
+    "hcpcs_code": "A7029",
+    "description": "Nasal pillows for combination oral/nasal mask, replacement only, pair"
+  },
+  {
+    "hcpcs_code": "A7030",
+    "description": "Full face mask used with positive airway pressure device, each"
+  },
+  {
+    "hcpcs_code": "A7031",
+    "description": "Face mask interface, replacement for full face mask, each"
+  },
+  {
+    "hcpcs_code": "A7032",
+    "description": "Cushion for use on nasal mask interface, replacement only, each"
+  },
+  {
+    "hcpcs_code": "A7033",
+    "description": "Pillow for use on nasal cannula type interface, replacement only, pair"
+  },
+  {
+    "hcpcs_code": "A7034",
+    "description": "Nasal interface (mask or cannula type) used with positive airway pressure device, with or without head strap"
+  },
+  {
+    "hcpcs_code": "A7035",
+    "description": "Headgear used with positive airway pressure device"
+  },
+  {
+    "hcpcs_code": "A7036",
+    "description": "Chinstrap used with positive airway pressure device"
+  },
+  {
+    "hcpcs_code": "A7037",
+    "description": "Tubing used with positive airway pressure device"
+  },
+  {
+    "hcpcs_code": "A7038",
+    "description": "Filter, disposable, used with positive airway pressure device"
+  },
+  {
+    "hcpcs_code": "A7039",
+    "description": "Filter, non disposable, used with positive airway pressure device"
+  },
+  {
+    "hcpcs_code": "A7040",
+    "description": "One way chest drain valve"
+  },
+  {
+    "hcpcs_code": "A7041",
+    "description": "Water seal drainage container and tubing for use with implanted chest tube"
+  },
+  {
+    "hcpcs_code": "A7042",
+    "description": "Implanted pleural catheter, each Terminated December 31, 2014."
+  },
+  {
+    "hcpcs_code": "A7043",
+    "description": "Vacuum drainage bottle and tubing for use with implanted catheter Terminated December 31, 2014."
+  },
+  {
+    "hcpcs_code": "A7044",
+    "description": "Oral interface used with positive airway pressure device, each"
+  },
+  {
+    "hcpcs_code": "A7045",
+    "description": "Exhalation port with or without swivel used with accessories for positive airway devices, replacement only"
+  },
+  {
+    "hcpcs_code": "A7046",
+    "description": "Water chamber for humidifier, used with positive airway pressure device, replacement, each"
+  },
+  {
+    "hcpcs_code": "A7047",
+    "description": "Oral interface used with respiratory suction pump, each"
+  },
+  {
+    "hcpcs_code": "A7048",
+    "description": "Vacuum drainage collection unit and tubing kit, including all supplies needed for collection unit change, for use with implanted catheter, each"
+  },
+  {
+    "hcpcs_code": "A7049",
+    "description": "Expiratory positive airway pressure intranasal resistance valve"
+  },
+  {
+    "hcpcs_code": "A7501",
+    "description": "Tracheostoma valve, including diaphragm, each"
+  },
+  {
+    "hcpcs_code": "A7502",
+    "description": "Replacement diaphragm/faceplate for tracheostoma valve, each"
+  },
+  {
+    "hcpcs_code": "A7503",
+    "description": "Filter holder or filter cap, reusable, for use in a tracheostoma heat and moisture exchange system, each"
+  },
+  {
+    "hcpcs_code": "A7504",
+    "description": "Filter for use in a tracheostoma heat and moisture exchange system, each"
+  },
+  {
+    "hcpcs_code": "A7505",
+    "description": "Housing, reusable without adhesive, for use in a heat and moisture exchange system and/or with a tracheostoma valve, each"
+  },
+  {
+    "hcpcs_code": "A7506",
+    "description": "Adhesive disc for use in a heat and moisture exchange system and/or with tracheostoma valve, any type each"
+  },
+  {
+    "hcpcs_code": "A7507",
+    "description": "Filter holder and integrated filter without adhesive, for use in a tracheostoma heat and moisture exchange system, each"
+  },
+  {
+    "hcpcs_code": "A7508",
+    "description": "Housing and integrated adhesive, for use in a tracheostoma heat and moisture exchange system and/or with a tracheostoma valve, each"
+  },
+  {
+    "hcpcs_code": "A7509",
+    "description": "Filter holder and integrated filter housing, and adhesive, for use as a tracheostoma heat and moisture exchange system, each"
+  },
+  {
+    "hcpcs_code": "A7520",
+    "description": "Tracheostomy/laryngectomy tube, non-cuffed, polyvinylchloride (pvc), silicone or equal, each"
+  },
+  {
+    "hcpcs_code": "A7521",
+    "description": "Tracheostomy/laryngectomy tube, cuffed, polyvinylchloride (pvc), silicone or equal, each"
+  },
+  {
+    "hcpcs_code": "A7522",
+    "description": "Tracheostomy/laryngectomy tube, stainless steel or equal (sterilizable and reusable), each"
+  },
+  {
+    "hcpcs_code": "A7523",
+    "description": "Tracheostomy shower protector, each"
+  },
+  {
+    "hcpcs_code": "A7524",
+    "description": "Tracheostoma stent/stud/button, each"
+  },
+  {
+    "hcpcs_code": "A7525",
+    "description": "Tracheostomy mask, each"
+  },
+  {
+    "hcpcs_code": "A7526",
+    "description": "Tracheostomy tube collar/holder, each"
+  },
+  {
+    "hcpcs_code": "A7527",
+    "description": "Tracheostomy/laryngectomy tube plug/stop, each"
+  },
+  {
+    "hcpcs_code": "A8000",
+    "description": "Helmet, protective, soft, prefabricated, includes all components and accessories"
+  },
+  {
+    "hcpcs_code": "A8001",
+    "description": "Helmet, protective, hard, prefabricated, includes all components and accessories"
+  },
+  {
+    "hcpcs_code": "A8002",
+    "description": "Helmet, protective, soft, custom fabricated, includes all components and accessories"
+  },
+  {
+    "hcpcs_code": "A8003",
+    "description": "Helmet, protective, hard, custom fabricated, includes all components and accessories"
+  },
+  {
+    "hcpcs_code": "A8004",
+    "description": "Soft interface for helmet, replacement only"
+  },
+  {
+    "hcpcs_code": "A8005",
+    "description": "Powered, cable driven grip assist glove, hand, finger, includes microprocessor, pressure sensors, all components and accessories, custom fitted"
+  },
+  {
+    "hcpcs_code": "A8006",
+    "description": "Powered, cable driven grip assist glove, hand, finger, includes pressure sensors, glove replacement only"
+  },
+  {
+    "hcpcs_code": "A9150",
+    "description": "Non-prescription drugs"
+  },
+  {
+    "hcpcs_code": "A9152",
+    "description": "Single vitamin/mineral/trace element, oral, per dose, not otherwise specified"
+  },
+  {
+    "hcpcs_code": "A9153",
+    "description": "Multiple vitamins, with or without minerals and trace elements, oral, per dose, not otherwise specified"
+  },
+  {
+    "hcpcs_code": "A9154",
+    "description": "Artificial saliva, 1 ml"
+  },
+  {
+    "hcpcs_code": "A9155",
+    "description": "Artificial saliva, 30 ml Terminated March 31, 2025."
+  },
+  {
+    "hcpcs_code": "A9156",
+    "description": "Oral mucoadhesive, any type (liquid, gel, paste, etc.), per 1 ml"
+  },
+  {
+    "hcpcs_code": "A9180",
+    "description": "Pediculosis (lice infestation) treatment, topical, for administration by patient/caretaker"
+  },
+  {
+    "hcpcs_code": "A9268",
+    "description": "Programmer for transient, orally ingested capsule"
+  },
+  {
+    "hcpcs_code": "A9269",
+    "description": "Programable, transient, orally ingested capsule, for use with external programmer, per month"
+  },
+  {
+    "hcpcs_code": "A9270",
+    "description": "Non-covered item or service"
+  },
+  {
+    "hcpcs_code": "A9272",
+    "description": "Wound suction, disposable, includes dressing, all accessories and components, any type, each"
+  },
+  {
+    "hcpcs_code": "A9273",
+    "description": "Cold or hot fluid bottle, ice cap or collar, heat and/or cold wrap, any type"
+  },
+  {
+    "hcpcs_code": "A9274",
+    "description": "External ambulatory insulin delivery system, disposable, each, includes all supplies and accessories"
+  },
+  {
+    "hcpcs_code": "A9275",
+    "description": "Home glucose disposable monitor, includes test strips"
+  },
+  {
+    "hcpcs_code": "A9276",
+    "description": "Sensor; invasive (e.g., subcutaneous), disposable, for use with non-durable medical equipment interstitial continuous glucose monitoring system, one unit = 1 day supply"
+  },
+  {
+    "hcpcs_code": "A9277",
+    "description": "Transmitter; external, for use with non-durable medical equipment interstitial continuous glucose monitoring system"
+  },
+  {
+    "hcpcs_code": "A9278",
+    "description": "Receiver (monitor); external, for use with non-durable medical equipment interstitial continuous glucose monitoring system"
+  },
+  {
+    "hcpcs_code": "A9279",
+    "description": "Monitoring feature/device, stand-alone or integrated, any type, includes all accessories, components and electronics, not otherwise classified"
+  },
+  {
+    "hcpcs_code": "A9280",
+    "description": "Alert or alarm device, not otherwise classified"
+  },
+  {
+    "hcpcs_code": "A9281",
+    "description": "Reaching/grabbing device, any type, any length, each"
+  },
+  {
+    "hcpcs_code": "A9282",
+    "description": "Wig, any type, each"
+  },
+  {
+    "hcpcs_code": "A9283",
+    "description": "Foot pressure off loading/supportive device, any type, each"
+  },
+  {
+    "hcpcs_code": "A9284",
+    "description": "Spirometer, non-electronic, includes all accessories"
+  },
+  {
+    "hcpcs_code": "A9285",
+    "description": "Inversion/eversion correction device"
+  },
+  {
+    "hcpcs_code": "A9286",
+    "description": "Hygienic item or device, disposable or non-disposable, any type, each"
+  },
+  {
+    "hcpcs_code": "A9291",
+    "description": "Prescription digital cognitive and/or behavioral therapy, fda cleared, per course of treatment"
+  },
+  {
+    "hcpcs_code": "A9292",
+    "description": "Prescription digital visual therapy, software-only, fda cleared, per course of treatment"
+  },
+  {
+    "hcpcs_code": "A9293",
+    "description": "Fertility cycle (contraception & conception) tracking software application, fda cleared, per month, includes accessories (e.g., thermometer)"
+  },
+  {
+    "hcpcs_code": "A9294",
+    "description": "Prescription digital cognitive and/or behavioral therapy, biofeedback, fda cleared, per course of treatment"
+  },
+  {
+    "hcpcs_code": "A9300",
+    "description": "Exercise equipment"
+  },
+  {
+    "hcpcs_code": "A9500",
+    "description": "Technetium tc-99m sestamibi, diagnostic, per study dose"
+  },
+  {
+    "hcpcs_code": "A9501",
+    "description": "Technetium tc-99m teboroxime, diagnostic, per study dose"
+  },
+  {
+    "hcpcs_code": "A9502",
+    "description": "Technetium tc-99m tetrofosmin, diagnostic, per study dose"
+  },
+  {
+    "hcpcs_code": "A9503",
+    "description": "Technetium tc-99m medronate, diagnostic, per study dose, up to 30 millicuries"
+  },
+  {
+    "hcpcs_code": "A9504",
+    "description": "Technetium tc-99m apcitide, diagnostic, per study dose, up to 20 millicuries"
+  },
+  {
+    "hcpcs_code": "A9505",
+    "description": "Thallium tl-201 thallous chloride, diagnostic, per millicurie"
+  },
+  {
+    "hcpcs_code": "A9506",
+    "description": "Graphite crucible for preparation of technetium tc 99m-labeled carbon aerosol, one crucible"
+  },
+  {
+    "hcpcs_code": "A9507",
+    "description": "Indium in-111 capromab pendetide, diagnostic, per study dose, up to 10 millicuries"
+  },
+  {
+    "hcpcs_code": "A9508",
+    "description": "Iodine i-131 iobenguane sulfate, diagnostic, per 0.5 millicurie"
+  },
+  {
+    "hcpcs_code": "A9509",
+    "description": "Iodine i-123 sodium iodide, diagnostic, per millicurie"
+  },
+  {
+    "hcpcs_code": "A9510",
+    "description": "Technetium tc-99m disofenin, diagnostic, per study dose, up to 15 millicuries"
+  },
+  {
+    "hcpcs_code": "A9512",
+    "description": "Technetium tc-99m pertechnetate, diagnostic, per millicurie"
+  },
+  {
+    "hcpcs_code": "A9513",
+    "description": "Lutetium lu 177, dotatate, therapeutic, 1 millicurie"
+  },
+  {
+    "hcpcs_code": "A9515",
+    "description": "Choline c-11, diagnostic, per study dose up to 20 millicuries"
+  },
+  {
+    "hcpcs_code": "A9516",
+    "description": "Iodine i-123 sodium iodide, diagnostic, per 100 microcuries, up to 999 microcuries"
+  },
+  {
+    "hcpcs_code": "A9517",
+    "description": "Iodine i-131 sodium iodide capsule(s), therapeutic, per millicurie"
+  },
+  {
+    "hcpcs_code": "A9520",
+    "description": "Technetium tc-99m tilmanocept, diagnostic, up to 0.5 millicuries"
+  },
+  {
+    "hcpcs_code": "A9521",
+    "description": "Technetium tc-99m exametazime, diagnostic, per study dose, up to 25 millicuries"
+  },
+  {
+    "hcpcs_code": "A9524",
+    "description": "Iodine i-131 iodinated serum albumin, diagnostic, per 5 microcuries"
+  },
+  {
+    "hcpcs_code": "A9526",
+    "description": "Nitrogen n-13 ammonia, diagnostic, per study dose, up to 40 millicuries"
+  },
+  {
+    "hcpcs_code": "A9527",
+    "description": "Iodine i-125, sodium iodide solution, therapeutic, per millicurie"
+  },
+  {
+    "hcpcs_code": "A9528",
+    "description": "Iodine i-131 sodium iodide capsule(s), diagnostic, per millicurie"
+  },
+  {
+    "hcpcs_code": "A9529",
+    "description": "Iodine i-131 sodium iodide solution, diagnostic, per millicurie"
+  },
+  {
+    "hcpcs_code": "A9530",
+    "description": "Iodine i-131 sodium iodide solution, therapeutic, per millicurie"
+  },
+  {
+    "hcpcs_code": "A9531",
+    "description": "Iodine i-131 sodium iodide, diagnostic, per microcurie (up to 100 microcuries)"
+  },
+  {
+    "hcpcs_code": "A9532",
+    "description": "Iodine i-125 serum albumin, diagnostic, per 5 microcuries"
+  },
+  {
+    "hcpcs_code": "A9536",
+    "description": "Technetium tc-99m depreotide, diagnostic, per study dose, up to 35 millicuries"
+  },
+  {
+    "hcpcs_code": "A9537",
+    "description": "Technetium tc-99m mebrofenin, diagnostic, per study dose, up to 15 millicuries"
+  },
+  {
+    "hcpcs_code": "A9538",
+    "description": "Technetium tc-99m pyrophosphate, diagnostic, per study dose, up to 25 millicuries"
+  },
+  {
+    "hcpcs_code": "A9539",
+    "description": "Technetium tc-99m pentetate, diagnostic, per study dose, up to 25 millicuries"
+  },
+  {
+    "hcpcs_code": "A9540",
+    "description": "Technetium tc-99m macroaggregated albumin, diagnostic, per study dose, up to 10 millicuries"
+  },
+  {
+    "hcpcs_code": "A9541",
+    "description": "Technetium tc-99m sulfur colloid, diagnostic, per study dose, up to 20 millicuries"
+  },
+  {
+    "hcpcs_code": "A9542",
+    "description": "Indium in-111 ibritumomab tiuxetan, diagnostic, per study dose, up to 5 millicuries"
+  },
+  {
+    "hcpcs_code": "A9543",
+    "description": "Yttrium y-90 ibritumomab tiuxetan, therapeutic, per treatment dose, up to 40 millicuries"
+  },
+  {
+    "hcpcs_code": "A9544",
+    "description": "Iodine i-131 tositumomab, diagnostic, per study dose Terminated December 31, 2016."
+  },
+  {
+    "hcpcs_code": "A9545",
+    "description": "Iodine i-131 tositumomab, therapeutic, per treatment dose Terminated December 31, 2016."
+  },
+  {
+    "hcpcs_code": "A9546",
+    "description": "Cobalt co-57/58, cyanocobalamin, diagnostic, per study dose, up to 1 microcurie"
+  },
+  {
+    "hcpcs_code": "A9547",
+    "description": "Indium in-111 oxyquinoline, diagnostic, per 0.5 millicurie"
+  },
+  {
+    "hcpcs_code": "A9548",
+    "description": "Indium in-111 pentetate, diagnostic, per 0.5 millicurie"
+  },
+  {
+    "hcpcs_code": "A9550",
+    "description": "Technetium tc-99m sodium gluceptate, diagnostic, per study dose, up to 25 millicurie"
+  },
+  {
+    "hcpcs_code": "A9551",
+    "description": "Technetium tc-99m succimer, diagnostic, per study dose, up to 10 millicuries"
+  },
+  {
+    "hcpcs_code": "A9552",
+    "description": "Fluorodeoxyglucose f-18 fdg, diagnostic, per study dose, up to 45 millicuries"
+  },
+  {
+    "hcpcs_code": "A9553",
+    "description": "Chromium cr-51 sodium chromate, diagnostic, per study dose, up to 250 microcuries"
+  },
+  {
+    "hcpcs_code": "A9554",
+    "description": "Iodine i-125 sodium iothalamate, diagnostic, per study dose, up to 10 microcuries"
+  },
+  {
+    "hcpcs_code": "A9555",
+    "description": "Rubidium rb-82, diagnostic, per study dose, up to 60 millicuries"
+  },
+  {
+    "hcpcs_code": "A9556",
+    "description": "Gallium ga-67 citrate, diagnostic, per millicurie"
+  },
+  {
+    "hcpcs_code": "A9557",
+    "description": "Technetium tc-99m bicisate, diagnostic, per study dose, up to 25 millicuries"
+  },
+  {
+    "hcpcs_code": "A9558",
+    "description": "Xenon xe-133 gas, diagnostic, per 10 millicuries"
+  },
+  {
+    "hcpcs_code": "A9559",
+    "description": "Cobalt co-57 cyanocobalamin, oral, diagnostic, per study dose, up to 1 microcurie"
+  },
+  {
+    "hcpcs_code": "A9560",
+    "description": "Technetium tc-99m labeled red blood cells, diagnostic, per study dose, up to 30 millicuries"
+  },
+  {
+    "hcpcs_code": "A9561",
+    "description": "Technetium tc-99m oxidronate, diagnostic, per study dose, up to 30 millicuries"
+  },
+  {
+    "hcpcs_code": "A9562",
+    "description": "Technetium tc-99m mertiatide, diagnostic, per study dose, up to 15 millicuries"
+  },
+  {
+    "hcpcs_code": "A9563",
+    "description": "Sodium phosphate p-32, therapeutic, per millicurie"
+  },
+  {
+    "hcpcs_code": "A9564",
+    "description": "Chromic phosphate p-32 suspension, therapeutic, per millicurie"
+  },
+  {
+    "hcpcs_code": "A9566",
+    "description": "Technetium tc-99m fanolesomab, diagnostic, per study dose, up to 25 millicuries"
+  },
+  {
+    "hcpcs_code": "A9567",
+    "description": "Technetium tc-99m pentetate, diagnostic, aerosol, per study dose, up to 75 millicuries"
+  },
+  {
+    "hcpcs_code": "A9568",
+    "description": "Technetium tc-99m arcitumomab, diagnostic, per study dose, up to 45 millicuries"
+  },
+  {
+    "hcpcs_code": "A9569",
+    "description": "Technetium tc-99m exametazime labeled autologous white blood cells, diagnostic, per study dose"
+  },
+  {
+    "hcpcs_code": "A9570",
+    "description": "Indium in-111 labeled autologous white blood cells, diagnostic, per study dose"
+  },
+  {
+    "hcpcs_code": "A9571",
+    "description": "Indium in-111 labeled autologous platelets, diagnostic, per study dose"
+  },
+  {
+    "hcpcs_code": "A9572",
+    "description": "Indium in-111 pentetreotide, diagnostic, per study dose, up to 6 millicuries"
+  },
+  {
+    "hcpcs_code": "A9573",
+    "description": "Injection, gadopiclenol, 1 ml"
+  },
+  {
+    "hcpcs_code": "A9574",
+    "description": "Injection, ferumoxytol, 1 mg"
+  },
+  {
+    "hcpcs_code": "A9575",
+    "description": "Injection, gadoterate meglumine, 0.1 ml"
+  },
+  {
+    "hcpcs_code": "A9576",
+    "description": "Injection, gadoteridol, (prohance multipack), per ml"
+  },
+  {
+    "hcpcs_code": "A9577",
+    "description": "Injection, gadobenate dimeglumine (multihance), per ml"
+  },
+  {
+    "hcpcs_code": "A9578",
+    "description": "Injection, gadobenate dimeglumine (multihance multipack), per ml"
+  },
+  {
+    "hcpcs_code": "A9579",
+    "description": "Injection, gadolinium-based magnetic resonance contrast agent, not otherwise specified (nos), per ml"
+  },
+  {
+    "hcpcs_code": "A9580",
+    "description": "Sodium fluoride f-18, diagnostic, per study dose, up to 30 millicuries"
+  },
+  {
+    "hcpcs_code": "A9581",
+    "description": "Injection, gadoxetate disodium, 1 ml"
+  },
+  {
+    "hcpcs_code": "A9582",
+    "description": "Iodine i-123 iobenguane, diagnostic, per study dose, up to 15 millicuries"
+  },
+  {
+    "hcpcs_code": "A9583",
+    "description": "Injection, gadofosveset trisodium, 1 ml"
+  },
+  {
+    "hcpcs_code": "A9584",
+    "description": "Iodine 1-123 ioflupane, diagnostic, per study dose, up to 5 millicuries"
+  },
+  {
+    "hcpcs_code": "A9585",
+    "description": "Injection, gadobutrol, 0.1 ml"
+  },
+  {
+    "hcpcs_code": "A9586",
+    "description": "Florbetapir f18, diagnostic, per study dose, up to 10 millicuries"
+  },
+  {
+    "hcpcs_code": "A9587",
+    "description": "Gallium ga-68, dotatate, diagnostic, 0.1 millicurie"
+  },
+  {
+    "hcpcs_code": "A9588",
+    "description": "Fluciclovine f-18, diagnostic, 1 millicurie"
+  },
+  {
+    "hcpcs_code": "A9589",
+    "description": "Instillation, hexaminolevulinate hydrochloride, 100 mg"
+  },
+  {
+    "hcpcs_code": "A9590",
+    "description": "Iodine i-131, iobenguane, 1 millicurie"
+  },
+  {
+    "hcpcs_code": "A9591",
+    "description": "Fluoroestradiol f 18, diagnostic, 1 millicurie"
+  },
+  {
+    "hcpcs_code": "A9592",
+    "description": "Copper cu-64, dotatate, diagnostic, 1 millicurie"
+  },
+  {
+    "hcpcs_code": "A9593",
+    "description": "Gallium ga-68 psma-11, diagnostic, (ucsf), 1 millicurie"
+  },
+  {
+    "hcpcs_code": "A9594",
+    "description": "Gallium ga-68 psma-11, diagnostic, (ucla), 1 millicurie"
+  },
+  {
+    "hcpcs_code": "A9595",
+    "description": "Piflufolastat f-18, diagnostic, 1 millicurie"
+  },
+  {
+    "hcpcs_code": "A9596",
+    "description": "Gallium ga-68 gozetotide, diagnostic, (illuccix), 1 millicurie"
+  },
+  {
+    "hcpcs_code": "A9597",
+    "description": "Positron emission tomography radiopharmaceutical, diagnostic, for tumor identification, not otherwise classified"
+  },
+  {
+    "hcpcs_code": "A9598",
+    "description": "Positron emission tomography radiopharmaceutical, diagnostic, for non-tumor identification, not otherwise classified"
+  },
+  {
+    "hcpcs_code": "A9599",
+    "description": "Radiopharmaceutical, diagnostic, for beta-amyloid positron emission tomography (pet) imaging, per study dose, not otherwise specified Terminated December 31, 2017."
+  },
+  {
+    "hcpcs_code": "A9600",
+    "description": "Strontium sr-89 chloride, therapeutic, per millicurie"
+  },
+  {
+    "hcpcs_code": "A9601",
+    "description": "Flortaucipir f 18 injection, diagnostic, 1 millicurie"
+  },
+  {
+    "hcpcs_code": "A9602",
+    "description": "Fluorodopa f-18, diagnostic, per millicurie"
+  },
+  {
+    "hcpcs_code": "A9603",
+    "description": "Injection, pafolacianine, 0.1 mg"
+  },
+  {
+    "hcpcs_code": "A9604",
+    "description": "Samarium sm-153 lexidronam, therapeutic, per treatment dose, up to 150 millicuries"
+  },
+  {
+    "hcpcs_code": "A9606",
+    "description": "Radium ra-223 dichloride, therapeutic, per microcurie"
+  },
+  {
+    "hcpcs_code": "A9607",
+    "description": "Lutetium lu 177 vipivotide tetraxetan, therapeutic, 1 millicurie"
+  },
+  {
+    "hcpcs_code": "A9608",
+    "description": "Flotufolastat f 18, diagnostic, 1 millicurie"
+  },
+  {
+    "hcpcs_code": "A9609",
+    "description": "Fludeoxyglucose f18 up to 15 millicuries"
+  },
+  {
+    "hcpcs_code": "A9610",
+    "description": "Xenon xe-129 hyperpolarized gas, diagnostic, per study dose"
+  },
+  {
+    "hcpcs_code": "A9611",
+    "description": "Flurpiridaz f 18, diagnostic, 1 millicurie"
+  },
+  {
+    "hcpcs_code": "A9612",
+    "description": "Injection, fluorescein, 1 mg"
+  },
+  {
+    "hcpcs_code": "A9615",
+    "description": "Injection, pegulicianine, 1 mg"
+  },
+  {
+    "hcpcs_code": "A9616",
+    "description": "Gallium ga-68 gozetotide (gozellix), diagnostic, 1 millicurie"
+  },
+  {
+    "hcpcs_code": "A9697",
+    "description": "Injection, carboxydextran-coated superparamagnetic iron oxide, per study dose"
+  },
+  {
+    "hcpcs_code": "A9698",
+    "description": "Non-radioactive contrast imaging material, not otherwise classified, per study"
+  },
+  {
+    "hcpcs_code": "A9699",
+    "description": "Radiopharmaceutical, therapeutic, not otherwise classified"
+  },
+  {
+    "hcpcs_code": "A9700",
+    "description": "Supply of injectable contrast material for use in echocardiography, per study"
+  },
+  {
+    "hcpcs_code": "A9800",
+    "description": "Gallium ga-68 gozetotide, diagnostic, (locametz), 1 millicurie"
+  },
+  {
+    "hcpcs_code": "A9900",
+    "description": "Miscellaneous dme supply, accessory, and/or service component of another hcpcs code"
+  },
+  {
+    "hcpcs_code": "A9901",
+    "description": "Dme delivery, set up, and/or dispensing service component of another hcpcs code"
+  },
+  {
+    "hcpcs_code": "A9999",
+    "description": "Miscellaneous dme supply or accessory, not otherwise specified"
+  }
+]
